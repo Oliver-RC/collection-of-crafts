@@ -4,7 +4,7 @@ Collection of Crafts is a website showcasing a collection of art and craft ideas
 
 The sites look and feel, ease of navigation and content should deliver inspiration to the user. The aim is to update the onsite content periodically enabling previous users to come back and gain further inspiration. There with be a feedback 'voting' form to get the user involved along with a 'stay in touch' form allowing users to sign up to periodic newsletters giving them that timely reminder about the site and hopeful return of traffic.
 
-![Responsive Mockup] ()
+![Responsive Mockup](#)
 
 ## User Experience (UX)
 
@@ -32,31 +32,88 @@ The sites look and feel, ease of navigation and content should deliver inspirati
 - ### Typography
 - ### Imagery
 
+## Wireframe
+ - Desktop Wireframe [here](#)
+ - Tablet Wireframe [here](#)
+ - Mobile Wireframe [here](#)
+
 ## Current Features
 
 - ### Navigation Bar
+ - A responsive navigation bar featured on all all eight pages with links to the four craft ideas pages, Picture Board page, Vote page and Stay In Touch page. On the left is the brand logo. The navigation bar is identical on each page to provide a consistent look and ease of navigation.
+ - This section allows the user to easily navigate from page to page without having to use the back button or relooping back to the homepage. There is a visual button reminder in the bar to inform the user of the current page.
 - ### Landing Page Image
+ - A full page width photograph brings the site to life and provides the user a visual representation of what the site is about.
+ - It intends to be eye catching and sets the look and feel of the site. It will get the user interested and wanting to discover more.
 - ### About Us
+ - Building on the full width image above, the About Us section will inform the user the purpose of the site and the benefits of craft.
+ - The user will understand the resources available and the various elements of the site such as voting, staying in touch and uploading projects to the picture board.
+ - The content will be a mixture of icons, headings, written content and a central image to bring the various elements together.
 - ### Craft Navigation Tiles
-- ### Picture Board Tiles
+ - This section is made up of clickable buttons with a supporting image that categorises the core content of the site. Each button navigates to the respective page which will outline the avaialble craft ideas within the section.
+ - The images will be updated periodically in order to provide returning and frequent users a new inspiration.
+- ### Picture Board Tile
+ - This section is made up of a large full width image and a clickable button to take the user directly to the Picture Board page. For new users it can be an alternative starting point to the craft navigation above in which the user is seaking more motivation to start using the sites content.
+ - The image will be updated periodically to give returning and frequent users a subtle reminder that new content is available.
 - ### Vote Tile
+ - Continuing the look and feel of the site, there is a vote tile made up of a clickable button and supporting background image. The button will direct users to the voting page.
+ - The image will be updated periodically to give returning and frequent users a subtle reminder that a new vote is now available.
 - ### Stay In Touch Tile
+ - A Stay in touch clickable button with supporting image allows to user to click through to the Stay in Touch page. 
+ - The image will remain constant as the page clicked through to will be a static form allowing users to sign up to the periodic newsletter sent straight to their email address.
 - ### The Footer
-- ### Reuse and Play
-- ### Seasonal Fun
-- ### Learn by Craft
-- ### Rainy Day Projects
-- ### Picture Board
-- ### Vote
-- ### Stay In Touch
+ - The footer section houses icons of the relevant social media platforms available which allows the user to click on, thus directing them to the Collection of Craft relevant social page. The link will open up in a new tab as it gives the user the option to remain on the current landing page, or click onto the social media tab that has just opened.
+ - The footer encourages the user to keep connected via social media. It also gives the user confidence of the business / brand given the multiple social plaforms used.
+ The footer will be responsive and featured at the bottom on all all eight pages. The footer is identical on each page to provide a consistent look and ease of navigation.
+- ### Reuse and Play Page
+ - The Reuse and Play craft page will provide the user a number of craft ideas and projects that fall within this category. Below the navigation bar, there will be a full width relevant header image with the page title positioned across and center.
+ - Each craft creation idea will be titled and listed below the main heading in a simple to follow format. Starting with a supporting image of the finished craft, skill level, time to make and if adult supervision is needed. Then a 1, 2, 3 process of what you need, with a list below, let's make with a list of instructions below and let's play with another image of the finished craft plus a clickable button allowing the user to navigate to the Picture Board page, in order to upload their own image of the craft to shaw with the community. 
+ - The craft ideas and project content will be updated periodically based on the feedback / votes from the community. 
+ - The navigation bar will remain at the top of the page allowing the user to easily navigate to another page without having to use the back button or relooping back to the homepage. There is a visual button reminder in the bar to inform the user of the current page they are on.
+ - The footer will remain at the bottom of the page allowing the user to navigate to the relevant social media site. The link will open to a new tab.
+- ### Seasonal Fun Page
+ - The Seasonal Fun craft page will provide the user a number of craft ideas and projects that fall within this category. Below the navigation bar, there will be a full width relevant header image with the page title positioned across and center.
+ - Each craft creation idea will be titled and listed below the main heading in a simple to follow format. Starting with a supporting image of the finished craft, skill level, time to make and if adult supervision is needed. Then a 1, 2, 3 process of what you need, with a list below, let's make with a list of instructions below and let's play with another image of the finished craft plus a clickable button allowing the user to navigate to the Picture Board page, in order to upload their own image of the craft to shaw with the community. 
+ - The craft ideas and project content will be updated periodically based on the feedback / votes from the community. 
+ - The navigation bar will remain at the top of the page allowing the user to easily navigate to another page without having to use the back button or relooping back to the homepage. There is a visual button reminder in the bar to inform the user of the current page they are on.
+ - The footer will remain at the bottom of the page allowing the user to navigate to the relevant social media site. The link will open to a new tab.
+- ### Learn by Craft Page
+ - The Learn by Craft page will provide the user a number of craft ideas and projects that fall within this category. Below the navigation bar, there will be a full width relevant header image with the page title positioned across and center.
+ - Each craft creation idea will be titled and listed below the main heading in a simple to follow format. Starting with a supporting image of the finished craft, skill level, time to make and if adult supervision is needed. Then a 1, 2, 3 process of what you need, with a list below, let's make with a list of instructions below and let's play with another image of the finished craft plus a clickable button allowing the user to navigate to the Picture Board page, in order to upload their own image of the craft to shaw with the community. 
+ - The craft ideas and project content will be updated periodically based on the feedback / votes from the community. 
+ - The navigation bar will remain at the top of the page allowing the user to easily navigate to another page without having to use the back button or relooping back to the homepage. There is a visual button reminder in the bar to inform the user of the current page they are on.
+ - The footer will remain at the bottom of the page allowing the user to navigate to the relevant social media site. The link will open to a new tab.
+- ### Rainy Day Projects Page
+ - The Rainy Day Projects page will provide the user a number of craft ideas and projects that fall within this category. Below the navigation bar, there will be a full width relevant header image with the page title positioned across and center.
+ - Each craft creation idea will be titled and listed below the main heading in a simple to follow format. Starting with a supporting image of the finished craft, skill level, time to make and if adult supervision is needed. Then a 1, 2, 3 process of what you need, with a list below, let's make with a list of instructions below and let's play with another image of the finished craft plus a clickable button allowing the user to navigate to the Picture Board page, in order to upload their own image of the craft to shaw with the community. 
+ - The craft ideas and project content will be updated periodically based on the feedback / votes from the community. 
+ - The navigation bar will remain at the top of the page allowing the user to easily navigate to another page without having to use the back button or relooping back to the homepage. There is a visual button reminder in the bar to inform the user of the current page they are on.
+ - The footer will remain at the bottom of the page allowing the user to navigate to the relevant social media site. The link will open to a new tab.
+- ### Picture Board Page
+ - The Picture Board page will provide the user with images of final craft creations made by the community. It should provide inspiration and motivation to get crafting with friends, family and children.
+ - This section will be divided up into the relevant craft categories allowing the user to easily find their desired section.
+ - Within each section the images will be ordered horizontally supported with a horizonal scroll bar allowing the user to browse through the numerous images.
+ - The page layout follows the consistent structure delivered across the site with a navigation bar at the top, a main header image with the title on top and centered and the footer made up of the social media icons and links at the bottom.
+ - Underneath the header image and title will be a button that allows the user to click enabling them to upload their image to the Picture Board page.
+- ### Vote Page
+ - The Vote page will allow the user to get involved and have their say on the next craft idea for each category. The user should feel a sense of inclusion and be wanting to come back to see if their votes were selected. 
+ - The page is made up of a form with questions and radio button answers. It will be an anonymous form. There will be a submit button at the end of the set of questions allowing the user to send off their votes.
+ - The page layout follows the consistent structure delivered across the site with a navigation bar at the top, a main header image with the title on top and centered and the footer made up of the social media icons and links at the bottom.
+- ### Stay In Touch Page
+ - This page will allow the user to get signed up to the Collection of Crafts periodic newsletter sent direct to their email inbox.
+ - The user should feel part of the community when signed up. The future newsletter will contain links back to the site and advise, inspire and provide a reminder of the ongoing new content available.
+ - The user will be asked to submit their full name and email address.
+ - The page layout follows the consistent structure delivered across the site with a navigation bar at the top, a main header image with the title on top and centered and the footer made up of the social media icons and links at the bottom.
+- ### Responsive Site
+ - The site is responsive across various screen sizes from desktop, tablet and through to mobile.
 
 ## Features Left to Implement
 
 ## Technologies Used
 
 - ### Languages Used
-  - HTML
-  - CSS
+  - [HTML](https://en.wikipedia.org/wiki/HTML5)
+  - [CSS](https://en.wikipedia.org/wiki/CSS)
 
 - ### Frameworks, Libraries & Programs Used
   - Balsamiq: used to create the wireframe during the design process. Can be found [here] ()
@@ -66,6 +123,8 @@ The sites look and feel, ease of navigation and content should deliver inspirati
 ## Testing
 
 - ### Validator Testing
+ - HTML -
+ - CSS - 
 - ### Further Testing
 - ### Bugs
 
@@ -76,5 +135,7 @@ The sites look and feel, ease of navigation and content should deliver inspirati
 - ### Content
 - ### Media
 - ### Additional Resource
-Love Running README file helped me to build my own README file for Collection of Crafts (MS1 project).
+ - Love Running README file helped me to build my own README file for Collection of Crafts (MS1) project.
+ - Code Institue sample README file helped me to build my own README for Collection of Crafts (MS1) project.
+ - Wikipedia was referenced for the languages used in this project.
 - ### Acknowledgements
