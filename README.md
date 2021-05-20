@@ -1,6 +1,6 @@
 # Collection of Crafts
 
-Collection of Crafts is a website showcasing a range of art and craft ideas aimed for kids but in which the whole family can enjoy making. The site will be targeted towards parents / caregivers who are looking for craft ideas, inspiration and activities to do with children. Furthermore, I want to build a plaform that brings a sense of a community and ongoing involvement, something that I believe is missing from the many text heavy sites available.
+Collection of Crafts is a website showcasing a range of art and craft ideas aimed for kids but in which the whole family can enjoy making. The site will be targeted towards users who are looking for craft ideas, inspiration and activities to do with children. Furthermore, I want to build a plaform that brings a sense of a community and ongoing involvement, something that I believe is missing from the many text heavy sites available. The ultimate goal is to be the primary resource for users wanting ongoing art and craft projects.
 
 The sites look and feel, ease of navigation and content should deliver inspiration to the user. The aim is to update the onsite content periodically enabling previous users to come back and gain further inspiration. There with be a feedback 'voting' form to get the user involved along with a 'stay in touch' form allowing users to sign up to periodic newsletters giving them that timely reminder about the site and hopeful return of traffic.
 
@@ -15,7 +15,7 @@ A deployed link to the website can be found [here](#)
 - ### User Stories
 
   - #### First Time Visitor Goals
-    1. As a first time visitor I want to instantly understand what the site is about and then the who the crafts are for and what types of crafts are available.
+    1. As a first time visitor I want to instantly understand what the site is about and then who the crafts are for and what types of crafts are available.
     2. As a first time visitor I should be inspired by the landing page. The site should be easily navigated allowing me to continue to find insipirational craft ideas and projects.
     3. As a first time visitor I want the content to be in a consistant and simple to read format.
     4. As a first time visitor if motivated to use the site as a craft resource, I want to provide my email details to then receive regular craft updates.
@@ -32,9 +32,19 @@ A deployed link to the website can be found [here](#)
 
 ## Design
 
+- ### Structure
+ - The site will be made up of an initial landing page, 4 themed art and craft project idea pages, a picture board gallery page, a vote form page and a stay in touch sign up form.
+ - Every page will be in a consistant layout aiding simple usability. 
+   1. Navigation bar at the top.
+   2. header image and title of the page.
+   3. Core content of the page.
+   4. Social media footer at the bottom.
 - ### Colour Scheme
+ - 
 - ### Typography
+ - 
 - ### Imagery
+ - Imagery is very important across the site as it will be a source of inspiration to the user. It needs to be eye catching, bold and be relevant to the page content.
 
 ## Wireframe
  - Desktop Wireframe [here](#)
@@ -109,7 +119,7 @@ A deployed link to the website can be found [here](#)
  - The user will be asked to submit their full name and email address.
  - The page layout follows the consistent structure delivered across the site with a navigation bar at the top, a main header image with the title on top and centered and the footer made up of the social media icons and links at the bottom.
 - ### Responsive Site
- - The site is responsive across various screen sizes from desktop, tablet and through to mobile.
+ - The site is responsive across various screen sizes from desktop, tablet and through to mobile. The user needs to be able to easily read, navigate and interact with the content across various devices.
 
 ## Features Left to Implement
 
@@ -139,9 +149,10 @@ A deployed link to the website can be found [here](#)
 - ### Content
 - ### Media
 - ### Additional Resource
- - Love Running README file helped me to build my own README file for Collection of Crafts (MS1) project.
- - Code Institue sample README file helped me to build my own README for Collection of Crafts (MS1) project.
+ - [Love Running README file](#) helped me to build my own README file for Collection of Crafts (MS1) project.
+ - [Code Institue sample README file](#) helped me to further build my own README for Collection of Crafts (MS1) project.
+ - [Nemixu-milestone1 README file](#) helped me to further build my own README for Collection of Crafts (MS1) project.
  - Wikipedia was referenced for the languages used in this project.
 - ### Acknowledgements
 
-This project is for educational use only and was created for the Code Institue Milestone 1 Project: HTML/CSS Essentials.
+**This project is for educational use only and was created for the Code Institue Milestone 1 Project: HTML/CSS Essentials.**
