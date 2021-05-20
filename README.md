@@ -1,10 +1,14 @@
 # Collection of Crafts
 
-Collection of Crafts is a website showcasing a collection of art and craft ideas aimed for kids in which the whole family can enjoy making. The site will be targeted towards parents / caregivers who are looking for craft ideas, inspiration and activities to do with children. 
+Collection of Crafts is a website showcasing a range of art and craft ideas aimed for kids but in which the whole family can enjoy making. The site will be targeted towards parents / caregivers who are looking for craft ideas, inspiration and activities to do with children. Furthermore, I want to build a plaform that brings a sense of a community and ongoing involvement, something that I believe is missing from the many text heavy sites available.
 
 The sites look and feel, ease of navigation and content should deliver inspiration to the user. The aim is to update the onsite content periodically enabling previous users to come back and gain further inspiration. There with be a feedback 'voting' form to get the user involved along with a 'stay in touch' form allowing users to sign up to periodic newsletters giving them that timely reminder about the site and hopeful return of traffic.
 
 ![Responsive Mockup](#)
+
+## Showcase
+
+A deployed link to the website can be found [here](#)
 
 ## User Experience (UX)
 
@@ -139,3 +143,5 @@ The sites look and feel, ease of navigation and content should deliver inspirati
  - Code Institue sample README file helped me to build my own README for Collection of Crafts (MS1) project.
  - Wikipedia was referenced for the languages used in this project.
 - ### Acknowledgements
+
+This project is for educational use only and was created for the Code Institue Milestone 1 Project: HTML/CSS Essentials.
