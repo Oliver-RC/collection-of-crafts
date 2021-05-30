@@ -157,8 +157,11 @@ nav a:hover {
 }
 
 .image-about-us {
-    width: 100%;
+    width: 60%;
     height: auto;
+    display: block;
+    margin: 0 auto;
     background-size: contain;
+    border-style: solid;
     border-radius: 25%;
 }
