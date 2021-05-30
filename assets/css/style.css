@@ -175,38 +175,32 @@ nav a:hover {
     align-items: center;
 }
 
-.reuse_image {
+.craft_container div {
     height: 300px;
     width: 300px;
     border: 4px solid #A2ABB5;
-    margin: 3px;
+    margin: 3px; 
+}
+
+.reuse_image {
     background-image: url(../images/site_images/reuse_play.jpg);
     background-size: 100% 100%;
 }
 
 .seasonal_image {
-    height: 300px;
-    width: 300px;
-    border: 4px solid #A2ABB5;
-    margin: 3px;
     background-image: url(../images/site_images/seasonal_fun.jpg);
     background-size: 100% 100%;
 }
 
 .learn_image {
-    height: 300px;
-    width: 300px;
-    border: 4px solid #A2ABB5;
-    margin: 3px;
     background-image: url(../images/site_images/learn_craft.jpg);
     background-size: 100% 100%;
 }
 
 .rainy_image {
-    height: 300px;
-    width: 300px;
-    border: 4px solid #A2ABB5;
-    margin: 3px;
     background-image: url(../images/site_images/rainy_day.jpg);
     background-size: 100% 100%;
 }
+
+/*Vote and Stay In Touch Section */
+
