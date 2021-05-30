@@ -6,6 +6,7 @@
 
 * {
     margin: 0;
+    padding-left: 0;
     border: none;
 }
 
@@ -16,7 +17,9 @@ body {
 
 /* Headings and Nav Bar*/
 
-h1, h2, h3 {
+h1, 
+h2, 
+h3 {
     font-family: 'Permanent Marker', cursive;
 }
 
@@ -128,9 +131,29 @@ nav a:hover {
     }
 }
 
+/*Hero Image*/
+
 .hero-image {
     width: 100%;
     height: auto;
-    background: url('../images/site_images/hero_image.jpg') no-repeat center center;
     background-size: contain;
+}
+
+/*About Us*/
+
+.about-us {
+    text-align: center;
+}
+
+.content-about-us {
+    text-align: center;
+    margin: 0.75em auto;
+    list-style-position: inside;
+}
+
+.image-about-us {
+    width: 100%;
+    height: auto;
+    background-size: contain;
+    border-radius: 25%;
 }
