@@ -1,12 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Permanent+Marker&display=swap');
 
 :root {
-    --background: rgba(115, 77, 48, 0.8);
+    --background: rgba(115, 77, 48, 0.9);
 }
 
 * {
     margin: 0;
-    padding: 0;
     border: none;
 }
 
@@ -15,7 +14,7 @@ body {
     font-weight: 500;
 }
 
-/* Headings and Logo*/
+/* Headings and Nav Bar*/
 
 h1, h2, h3 {
     font-family: 'Permanent Marker', cursive;
@@ -53,8 +52,14 @@ header label {
     font-size: 2em;
 }
 
+header label:hover {
+    color: white;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
 nav {
-    position: absolute;
+    position: absolute; 
     text-align: right;
     top: 100%;
     right: 0;
@@ -121,4 +126,11 @@ nav a:hover {
     nav a {
         opacity: 1;
     }
+}
+
+.hero-image {
+    width: 100%;
+    height: auto;
+    background: url('../images/site_images/hero_image.jpg') no-repeat center center;
+    background-size: contain;
 }
