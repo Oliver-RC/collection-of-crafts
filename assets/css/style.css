@@ -162,6 +162,51 @@ nav a:hover {
     display: block;
     margin: 0 auto;
     background-size: contain;
-    border-style: solid;
+    border: 4px solid #A2ABB5;
     border-radius: 25%;
+}
+
+/*Craft Ideas and Projects Section*/
+
+.craft_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.reuse_image {
+    height: 300px;
+    width: 300px;
+    border: 4px solid #A2ABB5;
+    margin: 3px;
+    background-image: url(../images/site_images/reuse_play.jpg);
+    background-size: 100% 100%;
+}
+
+.seasonal_image {
+    height: 300px;
+    width: 300px;
+    border: 4px solid #A2ABB5;
+    margin: 3px;
+    background-image: url(../images/site_images/seasonal_fun.jpg);
+    background-size: 100% 100%;
+}
+
+.learn_image {
+    height: 300px;
+    width: 300px;
+    border: 4px solid #A2ABB5;
+    margin: 3px;
+    background-image: url(../images/site_images/learn_craft.jpg);
+    background-size: 100% 100%;
+}
+
+.rainy_image {
+    height: 300px;
+    width: 300px;
+    border: 4px solid #A2ABB5;
+    margin: 3px;
+    background-image: url(../images/site_images/rainy_day.jpg);
+    background-size: 100% 100%;
 }
