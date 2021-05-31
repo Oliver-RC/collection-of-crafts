@@ -182,9 +182,23 @@ nav a:hover {
     margin: 3px; 
 }
 
+.craft_container div a {
+    position: relative;
+    top: 50%;
+}
+
 .reuse_image {
     background-image: url(../images/site_images/reuse_play.jpg);
     background-size: 100% 100%;
+}
+
+.reuse_link {
+    color: #fff;
+    background-color: #a30021;
+    border: 2px solid black;
+    padding: 1em;
+    text-decoration: none;
+    text-transform: uppercase;
 }
 
 .seasonal_image {
@@ -192,14 +206,41 @@ nav a:hover {
     background-size: 100% 100%;
 }
 
+.seasonal_link {
+    color: #fff;
+    background-color: #fac748;
+    border: 2px solid black;
+    padding: 1em;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
 .learn_image {
     background-image: url(../images/site_images/learn_craft.jpg);
     background-size: 100% 100%;
 }
 
+.learn_link {
+    color: #fff;
+    background-color: #03204f;
+    border: 2px solid black;
+    padding: 1em;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
 .rainy_image {
     background-image: url(../images/site_images/rainy_day.jpg);
     background-size: 100% 100%;
+}
+
+.rainy_link {
+    color: #fff;
+    background-color: #a2abb5;
+    border: 2px solid black;
+    padding: 1em;
+    text-decoration: none;
+    text-transform: uppercase;
 }
 
 /*Vote and Stay In Touch Section */
