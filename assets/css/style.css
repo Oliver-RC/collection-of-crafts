@@ -187,6 +187,11 @@ nav a:hover {
     top: 50%;
 }
 
+.craft_container div a:hover {
+    text-decoration: underline;
+    cursor: pointer; 
+}
+
 .reuse_image {
     background-image: url(../images/site_images/reuse_play.jpg);
     background-size: 100% 100%;
