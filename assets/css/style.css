@@ -248,7 +248,7 @@ nav a:hover {
     text-transform: uppercase;
 }
 
-/*Vote and Stay In Touch Section */
+/*Vote and Stay In Touch Section*/
 
 .vote_touch_container {
     display: flex;
@@ -301,3 +301,25 @@ nav a:hover {
     text-decoration: none;
     text-transform: uppercase;
 }
+
+/*Footer*/
+
+footer {
+    background: var(--background);
+    width: 100%;
+}
+
+.social_networks {
+    text-align: center;
+}
+
+.social_networks li {
+    display: inline;
+}
+
+.social_networks i {
+    font-size: 2rem;
+    margin: 5%;
+    color: #03204f;
+}
+
