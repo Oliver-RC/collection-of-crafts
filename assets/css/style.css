@@ -133,9 +133,11 @@ nav a:hover {
 /*Hero Image*/
 
 .hero-image {
+    position: relative;
     width: 100%;
     height: auto;
     background-size: contain;
+    margin-top: 94px;
 }
 
 /*About Us*/
@@ -322,3 +324,46 @@ footer {
     color: #03204f;
 }
 
+/*Stay In Touch*/
+
+form {
+    margin: 5%;
+    padding: 5%;
+}
+
+.title {
+    text-align: center;
+}
+
+.form_icons i {
+    font-size: 2em;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form_description {
+    text-align: center;
+}
+
+input, textarea {
+    width: 100%;
+    margin-bottom: 5%;
+    border: 2px solid #a30021;
+}
+
+.submit_btn {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.25em;
+    background: #a30021;
+    color: #fff;
+}
+
+.submit_btn:hover {
+    background: #fff;
+    color: #a30021;
+}
