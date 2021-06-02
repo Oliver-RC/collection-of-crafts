@@ -333,21 +333,25 @@ form {
 
 .title {
     text-align: center;
+    font-size: 2em;
 }
 
 .form_icons i {
     font-size: 2em;
+    text-align: center;
 }
 
-.form {
+.form_container {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 5%;
 }
 
 .form_description {
     text-align: center;
+    margin-top: 5%;
 }
 
 input, textarea {
@@ -366,4 +370,27 @@ input, textarea {
 .submit_btn:hover {
     background: #fff;
     color: #a30021;
+}
+
+/*Vote*/
+
+h4 {
+    text-align: center;
+    color: #734d30;
+    margin: 5%;
+}
+
+.vote_title {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.question_answers label {
+display: block;
+font-size: 0.9em;
+}
+
+.question_answers input {
+    width: auto;
+    margin-right: 10%;
 }
