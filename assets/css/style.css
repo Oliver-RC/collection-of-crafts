@@ -357,7 +357,7 @@ footer {
     color: #03204f;
 }
 
-/*Stay In Touch*/
+/*Stay In Touch Page*/
 
 form {
     margin: 5%;
@@ -406,7 +406,7 @@ input, textarea {
     cursor: pointer;
 }
 
-/*Vote*/
+/*Vote Page*/
 
 h4 {
     text-align: center;
@@ -427,4 +427,27 @@ font-size: 0.9em;
 .question_answers input {
     width: auto;
     margin-right: 10%;
+}
+
+/*Picture Board Page*/
+
+.gallery_title {
+    text-align: center;
+    text-decoration: underline;
+    padding: 0.2em;
+}
+
+.gallery {
+    margin: 1em;
+    border: 0.2em solid #a2abb5;
+    width: auto;
+}
+
+.gallery:hover {
+    border: 0.2em solid green;
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
 }
