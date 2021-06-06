@@ -147,6 +147,7 @@ A deployed link to the website can be found [here](#)
 ## Credits
 
 - ### Content
+https://www.thebestideasforkids.com/
 - ### Media
 Font Awesome
 unsplash - 
