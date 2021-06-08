@@ -26,6 +26,12 @@ h3 {
     text-shadow: 1px 1px #fff;
 }
 
+h4 {
+    text-align: center;
+    color: #631f6f;
+    margin: 5%;
+}
+
 p {
     text-align: center;
     margin-bottom: 5%;
@@ -383,6 +389,7 @@ input, textarea {
     font-size: 1.25em;
     background: #a30021;
     color: #fff;
+    border: 2px solid black;
 }
 
 .submit_btn:hover {
@@ -393,20 +400,17 @@ input, textarea {
 
 /*Vote Page*/
 
-h4 {
-    text-align: center;
-    color: #734d30;
-    margin: 5%;
-}
-
 .vote_title {
     text-align: center;
     font-size: 1.5em;
+    color: #631f6f;
+    text-decoration: underline;
 }
 
 .question_answers label {
-display: block;
-font-size: 0.9em;
+    display: block;
+    font-size: 0.9em;
+    margin-left: 8%;
 }
 
 .question_answers input {
@@ -418,37 +422,43 @@ font-size: 0.9em;
 
 .gallery_title {
     text-align: center;
+    font-size: 1.5em;
     text-decoration: underline;
     padding: 0.2em;
 }
 
 .gallery {
-    margin: 1em;
-    border: 0.2em solid #a2abb5;
+    margin: 0.5em;
+    border: 4px solid #a2abb5;
     width: auto;
 }
 
 .gallery:hover {
-    border: 0.2em solid green;
+    border: 4px solid #157145;
 }
 
 .gallery img {
     width: 100%;
     height: auto;
+    object-fit: cover;
+    display: block;
 }
 
 /*Reuse & Play Craft Page*/
 
 .craft_1_container {
     border: 4px solid #a30021;
+    background: var(--background)
 }
 
 .craft_2_container {
     border: 4px solid #fac748;
+    background: var(--background)
 }
 
 .craft_3_container {
-    border: 4px solid green;
+    border: 4px solid #157145;
+    background: var(--background)
 }
 
 .craft_title {
@@ -479,6 +489,7 @@ font-size: 0.9em;
 
 .instructions li {
     margin-bottom: 2%;
+    font-size: 0.9em;
 }
 
 .number {
@@ -489,4 +500,8 @@ font-size: 0.9em;
     line-height: 50px;
     margin-left: auto;
     margin-right: auto;
+}
+
+.craft_form_submit {
+    margin: 5%;
 }
