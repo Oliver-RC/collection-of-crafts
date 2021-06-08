@@ -150,25 +150,29 @@ nav a:hover {
 /*Hero Image*/
 
 .hero-container {
-position: relative;
+    position: relative;
 }
 
 .hero-image img {
     display: block;
     width: 100%;
-    height: 40vh;
-    background-size: contain;
+    height: 50vh;
     border: 8px solid #03204f;
+    object-fit: fill;
 }
 
 .title {
     position: absolute;
-    top: 25%;
-    bottom: 25%;
-    left: 25%;
-    right: 25%;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
     text-align: center;
     font-size: 1.5em;
+    background-color: #c7c9d1;
+    border-radius: 15%;
+    border: 2px solid #03204f;
+    padding: 2.5%;
 }
 /*About Us*/
 
@@ -311,7 +315,7 @@ position: relative;
 .stay_image {
     background-image: url(../images/site_images/stay_in_touch.jpg);
     background-size: 100% 100%;
-    border: 4px solid #734d30;;
+    border: 4px solid #734d30;
 }
 
 .stay_link {
@@ -346,11 +350,6 @@ footer {
 
 /*Stay In Touch Page*/
 
-form {
-    margin: 5%;
-    padding: 5%;
-}
-
 .form_icons i {
     font-size: 2em;
     text-align: center;
@@ -361,12 +360,16 @@ form {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 5%;
+    margin: 5%;
 }
 
 .form_description {
     text-align: center;
     margin-top: 5%;
+}
+
+.newsletter-sign-up {
+    line-height: 3em;
 }
 
 input, textarea {
