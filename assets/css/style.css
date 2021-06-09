@@ -196,6 +196,10 @@ nav a:hover {
     list-style-position: inside;
 }
 
+.about-image-container {
+    padding: 8px;
+}
+
 .image-about-us {
     width: 50%;
     height: auto;
@@ -206,12 +210,40 @@ nav a:hover {
     border-radius: 25%;
 }
 
+@media screen and (min-width: 768px) {
+    .image-about-us {
+        max-width: 383px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .container-about-us {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        position: relative;
+    }
+
+    .content-about-us {
+        flex: 50%;
+        padding: 0 100px;
+    }
+
+    .about-image-container {
+        position: absolute;
+        align-items: center; 
+        top: 50%;  
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+}
+
 /*Page Link Section*/
 
 .craft_container div {
     width: 100%;
     padding-top: 100%;
-    /*height: 50vh;*/
     position: relative;
 }
 
@@ -335,10 +367,6 @@ nav a:hover {
 }
 
 @media screen and (min-width: 768px) {
-    .image-about-us {
-        max-width: 383px;
-    }
-
     .craft_container {
         display: flex;
         flex-wrap: wrap;
@@ -357,27 +385,9 @@ nav a:hover {
     .flex-right {
         flex: 50%;
     }
+
     .flex-center {
         flex: 100%;
-    }
-}
-
-@media screen and (min-width: 1024px) {
-    .container-about-us {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content: center;
-    }
-
-    .content-about-us {
-        flex: 50%;
-        padding: 0 100px;
-    }
-
-    .about-image-container {
-        position: absolute;
-        margin: 5% 2%;
     }
 }
 
@@ -398,7 +408,7 @@ footer {
 
 .social_networks i {
     font-size: 2rem;
-    margin: 5%;
+    margin: 2% 5%;
     color: #03204f;
 }
 

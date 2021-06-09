@@ -120,6 +120,7 @@ A deployed link to the website can be found [here](#)
  - The page layout follows the consistent structure delivered across the site with a navigation bar at the top, a main header image with the title on top and centered and the footer made up of the social media icons and links at the bottom.
 - ### Responsive Site
  - The site is responsive across various screen sizes from desktop, tablet and through to mobile. The user needs to be able to easily read, navigate and interact with the content across various devices.
+ - Specific screen break points are: iphone 5 up to ipad (320px - 767px), ipad up to ipad Pro (768px - 1023px), ipad Pro to desktop (1024px +).
 
 ## Features Left to Implement
 
