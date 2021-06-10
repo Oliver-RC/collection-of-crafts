@@ -165,7 +165,7 @@ nav a:hover {
     position: relative;
 }
 
-.hero-image img {
+.hero-image > img {
     display: block;
     width: 100%;
     height: 50vh;
@@ -186,6 +186,13 @@ nav a:hover {
     border: 2px solid #03204f;
     padding: 2.5%;
 }
+
+@media screen and (min-width: 768px) {
+    .hero-image > img {
+        height: 40vh;
+    }
+}
+
 /*About Us*/
 
 .about-us-background-image {
@@ -383,8 +390,8 @@ nav a:hover {
         flex-wrap: wrap;
     }
 
-    .craft_container > div {
-        width: 600px;
+    .craft_container div {
+        width: 50%;
         height: 400px;
         padding-top: 0;
     }
@@ -467,6 +474,13 @@ input, textarea {
     cursor: pointer;
 }
 
+@media screen and (min-width: 768px) {
+    .newsletter-form {
+        width: 100%;
+        line-height: 2em;  
+    }
+}
+
 /*Vote Page*/
 
 .vote_title {
@@ -485,6 +499,16 @@ input, textarea {
 .question_answers input {
     width: auto;
     margin-right: 10%;
+}
+
+@media screen and (min-width: 768px) {
+    .vote_questions {
+        width: 80%;
+    }
+
+    .question_answers label {
+        margin-left: 25%;
+    }
 }
 
 /*Picture Board Page*/
