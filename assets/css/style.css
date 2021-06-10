@@ -141,7 +141,7 @@ nav a:hover {
     nav {
         all: unset;
         display: flex;
-        justify-content: flex-end;
+        justify-content: center;
         align-items: center;
     }
 
@@ -150,7 +150,7 @@ nav a:hover {
     }
 
     nav li {
-        margin-left: 3em;
+        margin: 0 30px;
         margin-bottom: 0;
     }
 
