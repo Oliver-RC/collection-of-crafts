@@ -577,6 +577,7 @@ input, textarea {
         flex-direction: row;
         flex-wrap: nowrap;
         justify-content: center;
+     }
 }
 
 /*Reuse & Play Craft Page*/
@@ -639,4 +640,37 @@ input, textarea {
 
 .craft_form_submit {
     margin: 5%;
+}
+
+@media screen and (min-width: 768px) {
+    .craft_flex {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .skill_level P {
+        text-align: left;
+        font-size: 1.25em;
+        line-height: 2em;
+        margin: 25% 10%;
+    }
+
+    .skill_level, 
+    .craft_image, 
+    .instructions {
+        width: 50%;
+    }
+
+    .instructions {
+        padding: 0 5%;
+    }
+
+    .stage3 {
+        width: 100%;
+    }
+
+    .craft_image {
+        margin: auto;
+    }
 }
