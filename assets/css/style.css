@@ -128,6 +128,12 @@ nav a:hover {
 }
 
 @media screen and (min-width: 1024px) {
+    .logo > h1 {
+        text-align: center;
+        margin: 0;
+        padding: 1%;
+    }
+    
     .nav-toggle-label {
         display: none;
     }
@@ -212,11 +218,9 @@ nav a:hover {
 
 @media screen and (min-width: 768px) {
     .image-about-us {
-        max-width: 383px;
+        max-width: 350px;
     }
-}
 
-@media screen and (min-width: 1024px) {
     .container-about-us {
         display: flex;
         flex-direction: row;
@@ -227,7 +231,14 @@ nav a:hover {
 
     .content-about-us {
         flex: 50%;
-        padding: 0 100px;
+    }
+
+    .content-left {
+        padding-right: 12%;
+    }
+
+    .content-right {
+        padding-left: 12%;
     }
 
     .about-image-container {
