@@ -41,6 +41,7 @@ A deployed link to the website can be found [here](#)
    4. Social media footer at the bottom.
    5. Consistant colour scheme throughout each page.
 - ### Colour Scheme
+ - Colour scheme of the site designed using: https://coolors.co/
  - The header, nav bar and footer make up the main colour of the site being lavender gray, this is also supported as a background colour where needed. 
  - The heading and font colour is oxford blue with a shadow on heading of white and when hovered over link text.
  - Each page of the site is supported with a different accent colour so the user has a visual reference point and not solely relying on reading the text.
@@ -223,14 +224,61 @@ A deployed link to the website can be found [here](#)
 - ### Bugs
 
 ## Deployment
+- The site was deployed to GitHub Pages using the following steps:
+ - Log in to GitHub and locate my repository.
+ - Locate the 'Settings' link in the navigation bar an click into.
+ - Find the 'Pages' section within Settings and click into. 
+ - Under 'source', click on 'none' and a dropdown will apear, click on 'master' and save.
+ - The page will refresh and there will be a link stating: 'Your site is published at'
+
+The live link can be found here - https://oliver-rc.github.io/collection-of-crafts/
 
 ## Credits
-
 - ### Content
-https://www.thebestideasforkids.com/
+ - The content within the craft ideas pages, specifically on the Resuse & Play page has been adapted from https://www.thebestideasforkids.com/. The three craft ideas used have been adapted from:
+  1. https://www.thebestideasforkids.com/toilet-paper-roll-butterfly/
+  2. https://www.thebestideasforkids.com/egg-carton-garden-craft/
+  3. https://www.thebestideasforkids.com/frog-craft/
+ - Links to the original site of the content has been included within the site, positioned below each craft title.
 - ### Media
-Font Awesome
-unsplash - 
+ - The Favicon was created from Favicon.io ![here](https://favicon.io/favicon-generator/)
+ - Icons included within the content of the size used from Font Awesome ![here](https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free)
+ - Images used across the site taken from Unsplash ![here](https://unsplash.com/). Specfic images used are:
+  - Hero Landing page Photo by <a href="https://unsplash.com/@franganillo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jorge Franganillo</a>
+  - About content Photo by <a href="https://unsplash.com/@alicegrace?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alice Dietrich</a>
+  - Reuse page Photo by <a href="https://unsplash.com/@brunette23?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mariah Hewines</a>
+  - Seasonal page Photo by <a href="https://unsplash.com/@jeshoots?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">JESHOOTS.COM</a>
+  - Learn page Photo by <a href="https://unsplash.com/@gautamarora1991?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gautam Arora</a>
+  - Rainy Day page Photo by <a href="https://unsplash.com/@sigmund?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sigmund</a>
+  - Picture Board page Photo by <a href="https://unsplash.com/@jruscello?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jessica Ruscello</a>
+  - Vote page Photo by <a href="https://unsplash.com/@markfb?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mark Fletcher-Brown</a>
+  - Stay In Touch page Photo by <a href="https://unsplash.com/@ay_leon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Leon Rojas</a>
+- Images on the Reuse & Play craft page taken from:
+  1. https://www.thebestideasforkids.com/toilet-paper-roll-butterfly/
+  2. https://www.thebestideasforkids.com/egg-carton-garden-craft/
+  3. https://www.thebestideasforkids.com/frog-craft/
+- Images on the Picture Board page taken from:
+ - Reuse & Play section:
+  - https://healthymamainfo.com/2012/02/toilet-paper-roll-butterfly-craft/
+  - https://onceaduckling.com/2020/04/04/toilet-roll-butterfly-fun-project-for-kids/
+  - https://www.diyncrafts.com/83537/kids/paper-roll-butterfly
+  - https://www.artycraftykids.com/craft/toilet-paper-roll-bugs-easy-kids-craft/
+ - Seasonal Fun section:
+  - https://www.pinterest.co.uk/pin/843721311430377299/
+  - http://northtexaskids.com/easy-kids-crafts-paper-plate-easter-bunny-craft/
+  - https://athomewithzan.com/paper-plate-easter-bunny-craft-for-kids/
+  - https://www.ourkidthings.com/paper-plate-easter-bunny-craft/
+ - Learn by Craft section:
+  - https://montessorifromtheheart.com/2018/04/03/diy-recycled-tactile-number-counters-board-pipe-cleaners-pom-pom-math-sensorial-homeschool-preschool/
+  - https://www.hellowonderful.co/post/cardboard-math-learning-board/
+  - https://montessorifromtheheart.com/2018/04/03/diy-recycled-tactile-number-counters-board-pipe-cleaners-pom-pom-math-sensorial-homeschool-preschool/
+  - https://laughingkidslearn.com/simple-counting-activity-for-children/
+ - Rainy Day Projects section:
+  - https://www.kokuyocamlin.com/blog/paper-plate-rainbow-craft.html
+  - https://www.anightowlblog.com/paper-plate-rainbow-kids-craft/
+  - https://mykidcraft.com/paper-plate-rainbow/paper-plates-rainbows-kids-craft-rainbow-themed-parties-paper-plate-crafts-im3959/
+  - https://www.inspirationmadesimple.com/st-patricks-day-paper-plate-crafts/
+
 - ### Additional Resource
  - [Love Running README file](#) helped me to build my own README file for Collection of Crafts (MS1) project.
  - [Code Institue sample README file](#) helped me to further build my own README for Collection of Crafts (MS1) project.
