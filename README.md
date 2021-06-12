@@ -45,7 +45,7 @@ A deployed link to the website can be found [here](#)
  - The header, nav bar and footer make up the main colour of the site being lavender gray, this is also supported as a background colour where needed. 
  - The heading and font colour is oxford blue with a shadow on heading of white and when hovered over link text.
  - Each page of the site is supported with a different accent colour so the user has a visual reference point and not solely relying on reading the text.
- ![Site Colour Scheme](#)
+ ![Site Colour Scheme](https://github.com/Oliver-RC/collection-of-crafts/blob/master/assets/readme-content/Collection%20of%20Crafts.png)
 - ### Typography
  - The Permanent Market font is used for the headings throughout the site with Cursive as the fallback. Permanent Marker brings relevant styling for a craft webite.
  - The Open Sans font is used for the content of the site with Sans-Serif as the fallback. Open Sans works well against the headings giving the font clear lines to read.
@@ -204,7 +204,6 @@ A deployed link to the website can be found [here](#)
 ## Testing
 - ### Google Inspect
  - I coded the site using mobile first design. Constantly using Google Inspect to check my layout, make amendments, re-check and delivery an end result that fits the brief and user goals. 
-
 - ### Validator Testing
  - HTML - 
   - One error returned when checking the index.html page, on line 70 I was missing a ; after the &amp code. Corrected. There were two warnings highlighting sections on lines 49 and 98 lacked headings, however not relevant.
@@ -223,7 +222,6 @@ A deployed link to the website can be found [here](#)
 - ### Further Testing
  - Site tested on Google Chrome, Microsoft Edge and Firefox across the responsive page break sizes. 
  - Site tested on mobile, both Samsung Note 10 and iphone 10.
- 
 - ### Bugs
 
 ## Deployment
@@ -247,15 +245,15 @@ The live link can be found here - https://oliver-rc.github.io/collection-of-craf
  - The Favicon was created from Favicon.io ![here](https://favicon.io/favicon-generator/)
  - Icons included within the content of the size used from Font Awesome ![here](https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free)
  - Images used across the site taken from Unsplash ![here](https://unsplash.com/). Specfic images used are:
-  - Hero Landing page Photo by <a href="https://unsplash.com/@franganillo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jorge Franganillo</a>
-  - About content Photo by <a href="https://unsplash.com/@alicegrace?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alice Dietrich</a>
-  - Reuse page Photo by <a href="https://unsplash.com/@brunette23?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mariah Hewines</a>
-  - Seasonal page Photo by <a href="https://unsplash.com/@jeshoots?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">JESHOOTS.COM</a>
-  - Learn page Photo by <a href="https://unsplash.com/@gautamarora1991?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gautam Arora</a>
-  - Rainy Day page Photo by <a href="https://unsplash.com/@sigmund?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sigmund</a>
-  - Picture Board page Photo by <a href="https://unsplash.com/@jruscello?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jessica Ruscello</a>
-  - Vote page Photo by <a href="https://unsplash.com/@markfb?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mark Fletcher-Brown</a>
-  - Stay In Touch page Photo by <a href="https://unsplash.com/@ay_leon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Leon Rojas</a>
+   - Hero Landing page Photo by <a href="https://unsplash.com/@franganillo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jorge Franganillo</a>
+   - About content Photo by <a href="https://unsplash.com/@alicegrace?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alice Dietrich</a>
+   - Reuse page Photo by <a href="https://unsplash.com/@brunette23?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mariah Hewines</a>
+   - Seasonal page Photo by <a href="https://unsplash.com/@jeshoots?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">JESHOOTS.COM</a>
+   - Learn page Photo by <a href="https://unsplash.com/@gautamarora1991?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gautam Arora</a>
+   - Rainy Day page Photo by <a href="https://unsplash.com/@sigmund?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sigmund</a>
+   - Picture Board page Photo by <a href="https://unsplash.com/@jruscello?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jessica Ruscello</a>
+   - Vote page Photo by <a href="https://unsplash.com/@markfb?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mark Fletcher-Brown</a>
+   - Stay In Touch page Photo by <a href="https://unsplash.com/@ay_leon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Leon Rojas</a>
 - Images on the Reuse & Play craft page taken from:
   1. https://www.thebestideasforkids.com/toilet-paper-roll-butterfly/
   2. https://www.thebestideasforkids.com/egg-carton-garden-craft/
@@ -281,12 +279,12 @@ The live link can be found here - https://oliver-rc.github.io/collection-of-craf
   - https://www.anightowlblog.com/paper-plate-rainbow-kids-craft/
   - https://mykidcraft.com/paper-plate-rainbow/paper-plates-rainbows-kids-craft-rainbow-themed-parties-paper-plate-crafts-im3959/
   - https://www.inspirationmadesimple.com/st-patricks-day-paper-plate-crafts/
-
 - ### Additional Resource
  - [Love Running README file](#) helped me to build my own README file for Collection of Crafts (MS1) project.
  - [Code Institue sample README file](#) helped me to further build my own README for Collection of Crafts (MS1) project.
  - [Nemixu-milestone1 README file](#) helped me to further build my own README for Collection of Crafts (MS1) project.
  - Wikipedia was referenced for the languages used in this project.
+ - Mockup designed using http://ami.responsivedesign.is/#
 - ### Acknowledgements
-
+ - 
 **This project is for educational use only and was created for the Code Institue Milestone 1 Project: HTML/CSS Essentials.**
