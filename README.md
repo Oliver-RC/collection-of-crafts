@@ -221,6 +221,9 @@ A deployed link to the website can be found [here](#)
   - ......
   ![CSS Validator Results](#)
 - ### Further Testing
+ - Site tested on Google Chrome, Microsoft Edge and Firefox across the responsive page break sizes. 
+ - Site tested on mobile, both Samsung Note 10 and iphone 10.
+ 
 - ### Bugs
 
 ## Deployment

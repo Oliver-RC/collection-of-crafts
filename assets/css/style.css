@@ -187,7 +187,7 @@ nav a:hover {
 .hero-image > img {
     display: block;
     width: 100%;
-    height: 40vh;
+    height: 50vh;
     border: 8px solid #03204f;
     object-fit: cover;
 }
@@ -220,6 +220,7 @@ nav a:hover {
     text-align: center;
     margin: 0.75em auto;
     list-style-position: inside;
+    height: 10vh;
 }
 
 .about-image-container {
@@ -411,7 +412,7 @@ nav a:hover {
     }
 
     .craft_container div {
-        height: 20vh;
+        height: 40vh;
         padding-top: 0;
     }
     
@@ -466,17 +467,17 @@ footer {
 
 .craft_1_container {
     border: 4px solid #a30021;
-    background: var(--background)
+    background: var(--background);
 }
 
 .craft_2_container {
     border: 4px solid #fac748;
-    background: var(--background)
+    background: var(--background);
 }
 
 .craft_3_container {
     border: 4px solid #157145;
-    background: var(--background)
+    background: var(--background);
 }
 
 .craft_title {
