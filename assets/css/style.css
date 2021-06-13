@@ -29,7 +29,7 @@ h3 {
 h4 {
     text-align: center;
     color: #631f6f;
-    margin: 5%;
+    margin: 10px;
 }
 
 p {
@@ -473,6 +473,10 @@ footer {
 .craft_3_container {
     border: 4px solid #157145;
     background: var(--background);
+}
+
+.web-link {
+    margin-bottom: 2%;
 }
 
 .craft_title {
