@@ -223,6 +223,7 @@ A deployed link to the website can be found [here](#)
  - Site tested on Google Chrome, Microsoft Edge and Firefox across the responsive page break sizes. 
  - Site tested on mobile, both Samsung Note 10 and iphone 10.
 - ### Bugs
+ - No reported bugs however I struggled with maintaining a good aspect ratio on my image divs. Upon research I wanted to use aspect-ratio css propoerty however it is not supported on Internet Explorer, Safari, Opera Android, Safari on iOS and Samsung Internet.
 
 ## Deployment
 - The site was deployed to GitHub Pages using the following steps:
