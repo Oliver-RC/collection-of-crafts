@@ -40,6 +40,7 @@ p {
 .form_icons i {
     font-size: 3em;
     text-align: center;
+    padding: 0 20px;
 }
 
 .form_container {
@@ -430,12 +431,6 @@ nav a:hover {
 }
 
 @media screen and (min-width: 1024px) {
-    .craft_container {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-    }
-    
     .flex-left,
     .flex-right {
         flex: 25%;
@@ -623,6 +618,14 @@ footer {
     font-size: 1.5em;
     text-decoration: underline;
     padding: 0.5em;
+}
+
+.gallery-paragraph {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5%;
+    text-align: center;
 }
 
 .reuse_picture_container {

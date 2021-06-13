@@ -4,7 +4,7 @@ Collection of Crafts is a website showcasing a range of art and craft ideas aime
 
 The sites look and feel, ease of navigation and content should deliver inspiration to the user. The aim is to update the onsite content periodically enabling previous users to come back and gain further inspiration. There with be a feedback 'voting' form to get the user involved in future carft ideas along with a 'stay in touch' form allowing users to sign up to periodic newsletters giving them that timely reminder about the site and hopeful return of traffic.
 
-![Responsive Mockup](#)
+[Responsive Mockup](https://github.com/Oliver-RC/collection-of-crafts/blob/master/assets/readme-content/responsive-mock-up.JPG)
 
 ## Showcase
 
@@ -245,15 +245,15 @@ The live link can be found here - https://oliver-rc.github.io/collection-of-craf
  - The Favicon was created from Favicon.io ![here](https://favicon.io/favicon-generator/)
  - Icons included within the content of the size used from Font Awesome ![here](https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free)
  - Images used across the site taken from Unsplash ![here](https://unsplash.com/). Specfic images used are:
-   - Hero Landing page Photo by <a href="https://unsplash.com/@franganillo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jorge Franganillo</a>
-   - About content Photo by <a href="https://unsplash.com/@alicegrace?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alice Dietrich</a>
-   - Reuse page Photo by <a href="https://unsplash.com/@brunette23?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mariah Hewines</a>
-   - Seasonal page Photo by <a href="https://unsplash.com/@jeshoots?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">JESHOOTS.COM</a>
-   - Learn page Photo by <a href="https://unsplash.com/@gautamarora1991?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gautam Arora</a>
-   - Rainy Day page Photo by <a href="https://unsplash.com/@sigmund?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sigmund</a>
-   - Picture Board page Photo by <a href="https://unsplash.com/@jruscello?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jessica Ruscello</a>
-   - Vote page Photo by <a href="https://unsplash.com/@markfb?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mark Fletcher-Brown</a>
-   - Stay In Touch page Photo by <a href="https://unsplash.com/@ay_leon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Leon Rojas</a>
+  - Hero Landing page Photo by <a href="https://unsplash.com/@franganillo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jorge Franganillo</a>
+  - About content Photo by <a href="https://unsplash.com/@alicegrace?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alice Dietrich</a>
+  - Reuse page Photo by <a href="https://unsplash.com/@brunette23?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mariah Hewines</a>
+  - Seasonal page Photo by <a href="https://unsplash.com/@jeshoots?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">JESHOOTS.COM</a>
+  - Learn page Photo by <a href="https://unsplash.com/@gautamarora1991?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gautam Arora</a>
+  - Rainy Day page Photo by <a href="https://unsplash.com/@sigmund?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sigmund</a>
+  - Picture Board page Photo by <a href="https://unsplash.com/@jruscello?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jessica Ruscello</a>
+  - Vote page Photo by <a href="https://unsplash.com/@markfb?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mark Fletcher-Brown</a>
+  - Stay In Touch page Photo by <a href="https://unsplash.com/@ay_leon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Leon Rojas</a>
 - Images on the Reuse & Play craft page taken from:
   1. https://www.thebestideasforkids.com/toilet-paper-roll-butterfly/
   2. https://www.thebestideasforkids.com/egg-carton-garden-craft/
