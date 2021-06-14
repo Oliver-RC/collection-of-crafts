@@ -55,9 +55,33 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
  - Imagery is also used in the contents of the four themed craft project pages to give the user a picture representation of the craft idea. On the Picture Board page images are the focal point to showcase the communities finished work.
 
 ## Wireframe
- - Desktop Wireframe [here](#)
- - Tablet Wireframe [here](#)
- - Mobile Wireframe [here](#)
+ - Desktop Wireframe 
+  - [Landing Page](#)
+  - [Reuse & Play Page](#)
+  - [Seasonal Fun Page](#)
+  - [Learn By Craft Page](#)
+  - [Rainy Day Projects Page](#)
+  - [Picture Board Page](#)
+  - [Vote Page](#)
+  - [Stay In Touch Page](#)
+ - Tablet Wireframe
+  - [Landing Page](#)
+  - [Reuse & Play Page](#)
+  - [Seasonal Fun Page](#)
+  - [Learn By Craft Page](#)
+  - [Rainy Day Projects Page](#)
+  - [Picture Board Page](#)
+  - [Vote Page](#)
+  - [Stay In Touch Page](#)
+ - Mobile Wireframe
+   [Landing Page](#)
+  - [Reuse & Play Page](#)
+  - [Seasonal Fun Page](#)
+  - [Learn By Craft Page](#)
+  - [Rainy Day Projects Page](#)
+  - [Picture Board Page](#)
+  - [Vote Page](#)
+  - [Stay In Touch Page](#)
 
 ## Current Features
 
@@ -152,13 +176,16 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
 - ### Responsive Site
  - The site is responsive across various screen sizes from desktop, tablet and through to mobile. The user needs to be able to easily read, navigate and interact with the content across various devices.
  - Specific screen break points are: iphone 5 up to ipad (320px - 767px), ipad up to ipad Pro (768px - 1023px), ipad Pro to desktop (1024px +).
- - The use of both Grid and Flexbox CSS will help create a responsive site. Which CSS tool used per page will be based on the layout of the content.
+ - The use of both Grid and Flexbox CSS has helped create a responsive site. Which CSS tool used per page is based on the layout of the content.
+
+ - ### Accessibility
+  - All images have an alt attribute taking into account users who are visually impaired. The site has contrasting background colours to text enabling an easy read and themed colourways have been set on the landing page which flows through to the specific pages. Semantic HTML has been used to support machines understand the layout of the site. All links have hover over effect.
 
 ## Features Left to Implement
- - The three other craft ideas page to be created: Seasonal Fun, Learn By Craft and Rainy Day Projects. The look and feel matches the live Reuse and Play page. Content to be sourced and loaded.
- - The form for uploading images to the Picture Board page. Need an understanding of backend technology.
+ - The form for uploading images to the Picture Board page. Need an understanding of backend technology. The images then supplied in by the user will need to be sensor checked before gaining permission to be loaded onto the site. Terms and conditions would need to be outlined on the site.
  - The form for voting on the Vote page. Need an understanding of backend technology.
- - The form for signing up to email newsletters on the Stay In Touch page. Need an understanding of backend technology.
+ - The form for signing up to email newsletters on the Stay In Touch page. Need an understanding of backend technology. Once the users details have been received, a periodic email is to be sent back to the users supplied email address. Terms and conditions and GDPR rules would need to be outlined.
+ - Ongoing periodic update to the imagery and craft content on the site to keep the site refreshed and inspiring.
 
 ## Technologies Used
 
@@ -168,8 +195,9 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
 
 - ### Frameworks, Libraries & Programs Used
   - Balsamiq: used to create the wireframe during the design process.
+  - Gitpod: used for writing the code and using the command line to commit and push to GitHub.
   - Git: used for version control through the gitpod terminal to commit to Git and push to GitHub.
-  - GitHub: used to store the projects code after being pushed from Git.
+  - GitHub: used to store the projects code after being pushed from Git. Used to host repository.
   - Hover.css: used for the links in the nav bar to underline and turn font colour white. Used to underline font in the buttons. Curser turns to sa hand icon when hovered over link.
   - Google Fonts: used to import the 'Permanent Market' with 'Cursive' as the fallback font on headings and the 'Open Sans' with 'Sans-Serif' as the fallback font on the content.
   - Font Awesome: used for icons in the footer and icons within the content of the site for aesthetic and UX purposes.
@@ -177,7 +205,7 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
 
 ## Testing
 - ### Google Inspect
- - I coded the site using mobile first design. Constantly using Google Inspect to check my layout, make amendments, re-check and delivery an end result that fits the brief and user goals. 
+ - I coded the site using mobile first design. Constantly using Google Inspect to check my layout, make amendments, re-check and delivering an end result that fits the brief and user goals. 
 - ### Validator Testing
  - HTML - 
   - One error returned when checking the index.html page, on line 70 I was missing a ; after the &amp code. Corrected. There were two warnings highlighting sections on lines 49 and 98 lacked headings, however not relevant.
@@ -190,14 +218,18 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
   ![Vote Page Validator Results](#)
   - No errors returned on the stay_in_touch.html page. One warning  highlighting section on line 62 lacked a heading, however not relevant.
   ![Stay In Touch Page Validator Results](#)
- - CSS - 
+- CSS - 
   - ......
   ![CSS Validator Results](#)
+- Wave - 
+  - .....
+  ![Wave Accessibility Results](#)
 - ### Further Testing
- - Site tested on Google Chrome, Microsoft Edge and Firefox across the responsive page break sizes. 
+ - Site tested on Google Chrome, Microsoft Edge, Firefox and Safari across the responsive page break sizes. 
  - Site tested on mobile, both Samsung Note 10 and iphone 10.
+ - All links on the site tested and directed to the correct page.
 - ### Bugs
- - No reported bugs however I struggled with maintaining a good aspect ratio on my image divs. Upon research I wanted to use aspect-ratio css propoerty however it is not supported on Internet Explorer, Safari, Opera Android, Safari on iOS and Samsung Internet.
+ - No reported bugs however I struggled with maintaining a good aspect ratio on my image divs. Upon research I wanted to use aspect-ratio css propoerty however it is not supported on Internet Explorer, Safari, Opera Android, Safari on iOS and Samsung Internet. Instead I used width and height ratios and implements various brak points that would suite each pages content.
 
 ## Deployment
 - The site was deployed to GitHub Pages using the following steps:
@@ -256,10 +288,22 @@ The live link can be found here - https://oliver-rc.github.io/collection-of-craf
   - https://www.inspirationmadesimple.com/st-patricks-day-paper-plate-crafts/
 - ### Additional Resource
  - [Love Running README file](#) helped me to build my own README file for Collection of Crafts (MS1) project.
- - [Code Institue sample README file](#) helped me to further build my own README for Collection of Crafts (MS1) project.
- - [Nemixu-milestone1 README file](#) helped me to further build my own README for Collection of Crafts (MS1) project.
- - Wikipedia was referenced for the languages used in this project.
- - Mockup designed using http://ami.responsivedesign.is/#
+ - [Code Institue sample README file](https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md) helped me to further build my own README for Collection of Crafts (MS1) project.
+ - [Code Institue old sample README file](https://github.com/Code-Institute-Solutions/SampleREADME#readme) helped me to further build my own README for Collection of Crafts (MS1) project.
+ - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) was referenced for the languages used in this project.
+ - [Mockup design](http://ami.responsivedesign.is/#) used to create my responsive design file.
+ - [W3schools](https://www.w3schools.com/) for various code information and trouble shooting.
+ - [Favicon](https://favicon.io/) used to generate the favicon icon of the site.
+ - [Google fonts](https://fonts.google.com/) used to import the 'Permanent Market' with 'Cursive' as the fallback font on headings and the 'Open Sans' with 'Sans-Serif' as the fallback font on the content.
+ - [Balsamiq wireframe](https://balsamiq.com/) used to create the wireframe during the design process.
+ - [Font Awesome](https://fontawesome.com/) used for icons in the footer and icons within the content of the site for aesthetic and UX purposes.
+ - [Unsplash](https://unsplash.com/) images taken from unsplash.
+ - [HTML Validator](https://validator.w3.org/) used to test validity of HTML.
+ - [CSS Validator](https://validator.w3.org/) used to test validity of CSS.
+ - [Wave Accessibility](https://wave.webaim.org/) used to test accessibility of the site.
+
 - ### Acknowledgements
- - 
+ - Brian Macharia - Mentor support. A thank you for your guidance throughout the project.
+ - Code Institue Slack Community - A great resource and helpful community supported me through the challenges encountered.
+
 **This project is for educational use only and was created for the Code Institue Milestone 1 Project: HTML/CSS Essentials.**
