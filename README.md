@@ -4,11 +4,11 @@ Collection of Crafts is a website showcasing a range of art and craft ideas aime
 
 The sites look and feel, ease of navigation and content should deliver inspiration to the user. The aim is to update the onsite content periodically enabling previous users to come back and gain further inspiration. There with be a feedback 'voting' form to get the user involved in future carft ideas along with a 'stay in touch' form allowing users to sign up to periodic newsletters giving them that timely reminder about the site and hopeful return of traffic.
 
-[Responsive Mockup](https://github.com/Oliver-RC/collection-of-crafts/blob/master/assets/readme-content/responsive-mock-up.JPG)
+![Responsive Mockup](#)
 
 ## Showcase
 
-A deployed link to the website can be found [here](#)
+A deployed link to the website can be found [here](https://oliver-rc.github.io/collection-of-crafts/index.html)
 
 ## User Experience (UX)
 
@@ -45,7 +45,7 @@ A deployed link to the website can be found [here](#)
  - The header, nav bar and footer make up the main colour of the site being lavender gray, this is also supported as a background colour where needed. 
  - The heading and font colour is oxford blue with a shadow on heading of white and when hovered over link text.
  - Each page of the site is supported with a different accent colour so the user has a visual reference point and not solely relying on reading the text.
- ![Site Colour Scheme](https://github.com/Oliver-RC/collection-of-crafts/blob/master/assets/readme-content/Collection%20of%20Crafts.png)
+ ![Site Colour Scheme](#)
 - ### Typography
  - The Permanent Market font is used for the headings throughout the site with Cursive as the fallback. Permanent Marker brings relevant styling for a craft webite.
  - The Open Sans font is used for the content of the site with Sans-Serif as the fallback. Open Sans works well against the headings giving the font clear lines to read.
@@ -114,7 +114,7 @@ A deployed link to the website can be found [here](#)
 
 ![Footer](#)
 
-- ### Reuse and Play Page
+- ### Reuse and Play Page (same format applies to the Seasonal Fun, Learn by Craft and Rainy Day Project pages but with different conetent)
  - The Reuse and Play craft page will provide the user a number of craft ideas and projects that fall within this category. Below the navigation bar, there will be a full width relevant header image with the page title positioned across and center.
  - Each craft creation idea will be titled and listed below the main heading in a simple to follow format. Starting with a supporting image of the finished craft, skill level, time to make and if adult supervision is needed. Then a 1, 2, 3 process of what you need, with a list below, let's make with a list of instructions below and let's play with another image of the finished craft plus a clickable button allowing the user to upload a picutre of their finished craft to the Picture Board page. 
  - The craft ideas and project content will be updated periodically based on the feedback / votes from the community. 
@@ -122,32 +122,6 @@ A deployed link to the website can be found [here](#)
  - The footer will remain at the bottom of the page allowing the user to navigate to the relevant social media site. The link will open to a new tab.
 
 ![Reuse Page](#)
-
-- ### Seasonal Fun Page
- - The Seasonal Fun craft page will provide the user a number of craft ideas and projects that fall within this category. Below the navigation bar, there will be a full width relevant header image with the page title positioned across and center.
- - Each craft creation idea will be titled and listed below the main heading in a simple to follow format. Starting with a supporting image of the finished craft, skill level, time to make and if adult supervision is needed. Then a 1, 2, 3 process of what you need, with a list below, let's make with a list of instructions below and let's play with another image of the finished craft plus a clickable button allowing the user to upload a picutre of their finished craft to the Picture Board page. 
- - The navigation bar will remain at the top of the page allowing the user to easily navigate to another page without having to use the back button or relooping back to the homepage. There is a visual button reminder in the bar to inform the user of the current page they are on.
- - The footer will remain at the bottom of the page allowing the user to navigate to the relevant social media site. The link will open to a new tab.
-
-![Seasonal Page](#)
-
-- ### Learn by Craft Page
- - The Learn by Craft page will provide the user a number of craft ideas and projects that fall within this category. Below the navigation bar, there will be a full width relevant header image with the page title positioned across and center.
- - Each craft creation idea will be titled and listed below the main heading in a simple to follow format. Starting with a supporting image of the finished craft, skill level, time to make and if adult supervision is needed. Then a 1, 2, 3 process of what you need, with a list below, let's make with a list of instructions below and let's play with another image of the finished craft plus a clickable button allowing the user to upload a picutre of their finished craft to the Picture Board page. 
- - The craft ideas and project content will be updated periodically based on the feedback / votes from the community. 
- - The navigation bar will remain at the top of the page allowing the user to easily navigate to another page without having to use the back button or relooping back to the homepage. There is a visual button reminder in the bar to inform the user of the current page they are on.
- - The footer will remain at the bottom of the page allowing the user to navigate to the relevant social media site. The link will open to a new tab.
-
-![Learn Page](#)
-
-- ### Rainy Day Projects Page
- - The Rainy Day Projects page will provide the user a number of craft ideas and projects that fall within this category. Below the navigation bar, there will be a full width relevant header image with the page title positioned across and center.
- - Each craft creation idea will be titled and listed below the main heading in a simple to follow format. Starting with a supporting image of the finished craft, skill level, time to make and if adult supervision is needed. Then a 1, 2, 3 process of what you need, with a list below, let's make with a list of instructions below and let's play with another image of the finished craft plus a clickable button allowing the user to upload a picutre of their finished craft to the Picture Board page. 
- - The craft ideas and project content will be updated periodically based on the feedback / votes from the community. 
- - The navigation bar will remain at the top of the page allowing the user to easily navigate to another page without having to use the back button or relooping back to the homepage. There is a visual button reminder in the bar to inform the user of the current page they are on.
- - The footer will remain at the bottom of the page allowing the user to navigate to the relevant social media site. The link will open to a new tab.
-
-![Rainy Page](#)
 
 - ### Picture Board Page
  - The Picture Board page will provide the user with images of final craft creations made by the community. It should provide inspiration and motivation to get crafting with friends, family and children.
