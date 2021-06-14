@@ -657,32 +657,26 @@ footer {
     margin: auto;
 }
 
-.reuse_picture_container {
-    background-color: #a30021;
+.gallery-box {
     height: 400px;
     overflow: scroll;
     border: 4px solid #a2abb5;
+}
+
+.reuse_picture_container {
+    background-color: #a30021;
 }
 
 .seasonal_picture_container {
     background-color: #fac748;
-    height: 400px;
-    overflow: scroll;
-    border: 4px solid #a2abb5;
 }
 
 .learn_picture_container {
     background-color: #03204f;
-    height: 400px;
-    overflow: scroll;
-    border: 4px solid #a2abb5;
 }
 
 .rainy_picture_container {
     background-color: var(--background);
-    height: 400px;
-    overflow: scroll;
-    border: 4px solid #a2abb5;
 }
 
 .gallery {
