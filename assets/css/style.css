@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Permanent+Marker&display=swap');
 
 :root {
-    --background: rgba(199, 201, 209, 0.9);
+    --background: #c7c9d1;
 }
 
 * {
@@ -207,7 +207,7 @@ nav a:hover {
     transform: translate(-50%, -50%);
     text-align: center;
     font-size: 1.5em;
-    background-color: #c7c9d1;
+    background-color: var(--background);
     border-radius: 15%;
     border: 2px solid #03204f;
     padding: 2.5%;
@@ -679,7 +679,7 @@ footer {
 }
 
 .rainy_picture_container {
-    background-color: #c7c9d1;
+    background-color: var(--background);
     height: 400px;
     overflow: scroll;
     border: 4px solid #a2abb5;
