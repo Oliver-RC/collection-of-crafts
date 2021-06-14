@@ -228,8 +228,8 @@ nav a:hover {
 .content-about-us {
     text-align: center;
     margin: 0.75em auto;
+    padding: 2%;
     list-style-position: inside;
-    height: 15vh;
 }
 
 .container-about-us {
@@ -577,6 +577,13 @@ footer {
     .grid-4 {
         grid-column: 1 / span 2;
         grid-row: 5;
+    }
+
+    .grid-1,
+    .grid-2,
+    .grid-3,
+    .grid-4 {
+        padding: 0 2%;
     }
 }
 
