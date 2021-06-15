@@ -56,32 +56,32 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
 
 ## Wireframe
  - Desktop Wireframe 
-  - ![Landing Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-desktop/home-page.png)
-  - ![Reuse & Play Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-desktop/reuse-%26-Play-page.png)
-  - ![Seasonal Fun Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-desktop/seasonal-fun-page.png)
-  - ![Learn By Craft Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-desktop/learn-by-craft-page.png)
-  - ![Rainy Day Projects Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-desktop/rainy-day-projects-page.png)
-  - ![Picture Board Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-desktop/picture-board-page.png)
-  - ![Vote Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-desktop/vote-page.png)
-  - ![Stay In Touch Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-desktop/stay-in-touch-page.png)
+  - [Landing Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-desktop/home-page.png)
+  - [Reuse & Play Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-desktop/reuse-%26-Play-page.png)
+  - [Seasonal Fun Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-desktop/seasonal-fun-page.png)
+  - [Learn By Craft Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-desktop/learn-by-craft-page.png)
+  - [Rainy Day Projects Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-desktop/rainy-day-projects-page.png)
+  - [Picture Board Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-desktop/picture-board-page.png)
+  - [Vote Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-desktop/vote-page.png)
+  - [Stay In Touch Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-desktop/stay-in-touch-page.png)
  - Tablet Wireframe
-  - ![Landing Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-tablet/home-page-tablet.png)
-  - ![Reuse & Play Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-tablet/reuse-%26-play-page-tablet.png)
-  - ![Seasonal Fun Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-tablet/seasonal-fun-page-tablet.png)
-  - ![Learn By Craft Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-tablet/learn-by-craft-page-tablet.png)
-  - ![Rainy Day Projects Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-tablet/rainy-day-projects-page-tablet.png)
-  - ![Picture Board Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-tablet/picture-board-page-tablet.png)
-  - ![Vote Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-tablet/vote-page-tablet.png)
-  - ![Stay In Touch Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-tablet/stay-in-touch-page-tablet.png)
+  - [Landing Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-tablet/home-page-tablet.png)
+  - [Reuse & Play Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-tablet/reuse-%26-play-page-tablet.png)
+  - [Seasonal Fun Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-tablet/seasonal-fun-page-tablet.png)
+  - [Learn By Craft Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-tablet/learn-by-craft-page-tablet.png)
+  - [Rainy Day Projects Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-tablet/rainy-day-projects-page-tablet.png)
+  - [Picture Board Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-tablet/picture-board-page-tablet.png)
+  - [Vote Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-tablet/vote-page-tablet.png)
+  - [Stay In Touch Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-tablet/stay-in-touch-page-tablet.png)
  - Mobile Wireframe
-  - ![Landing Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-mobile/home-page-mobile.png)
-  - ![Reuse & Play Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-mobile/reuse-%26-play-page-mobile.png)
-  - ![Seasonal Fun Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-mobile/seasonal-fun-page-mobile.png)
-  - ![Learn By Craft Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-mobile/learn-by-craft-page-mobile.png)
-  - ![Rainy Day Projects Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-mobile/rainy-day-projects-page-mobile.png)
-  - ![Picture Board Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-mobile/picture-board-page-mobile.png)
-  - ![Vote Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-mobile/vote-page-mobile.png)
-  - ![Stay In Touch Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-mobile/stay-in-touch-page-mobile.png)
+  - [Landing Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-mobile/home-page-mobile.png)
+  - [Reuse & Play Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-mobile/reuse-%26-play-page-mobile.png)
+  - [Seasonal Fun Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-mobile/seasonal-fun-page-mobile.png)
+  - [Learn By Craft Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-mobile/learn-by-craft-page-mobile.png)
+  - [Rainy Day Projects Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-mobile/rainy-day-projects-page-mobile.png)
+  - [Picture Board Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-mobile/picture-board-page-mobile.png)
+  - [Vote Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-mobile/vote-page-mobile.png)
+  - [Stay In Touch Page](https://github.com/Oliver-RC/collection-of-crafts/blob/master/wireframe/wireframe-mobile/stay-in-touch-page-mobile.png)
 
 ## Current Features
 
@@ -89,28 +89,28 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
  - A responsive navigation bar featured on all all eight pages with links to the four craft ideas pages, Picture Board page, Vote page and Stay In Touch page. On the left is the brand heading on smaller screen sizes with a burger menu of the right. On larger screen sizes the heading will be centered at the top with navigation links centered below. The navigation bar is identical on each page to provide a consistent look and ease of navigation.
  - This section allows the user to easily navigate from page to page without having to use the back button or relooping back to the homepage.
 
-[Nav Bar](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/nav-bar.JPG)
+![Nav Bar](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/nav-bar.JPG)
 
 - ### Landing Page Image
  - A full page width photograph brings the site to life and provides the user a visual representation of what the site and current page is about.
  - It intends to be eye catching and sets the look and feel of the site. It will get the user interest and wanting to discover more.
  - It is responsive to the size of screen and will not stretch or blur.
 
-[Landing Image](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/landing-page-hero-image.JPG)
+![Landing Image](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/landing-page-hero-image.JPG)
 
 - ### About Us
  - Building on the full width image above, the About Us section will inform the user the purpose of the site and the benefits.
  - The user will understand the resources available and the various elements of the site such as voting, staying in touch and uploading projects to the picture board.
  - The content will be a mixture of icons, headings, written content and a central image to bring the various elements together.
 
-[About Us](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/about-us.JPG)
+![About Us](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/about-us.JPG)
 
 - ### Craft Navigation Tiles
  - This section is made up of four clickable buttons centered on four supporting images that categorises the core content of the page. Each button navigates to the respective page which will outline the avaialble craft ideas within the section.
  - The images will be updated periodically in order to provide returning and frequent users a new inspiration.
  - The buttons will be coloured differently to stand out and provide a visual point of reference.
 
-[Craft Nav Tiles](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/craft-tiles.JPG)
+![Craft Nav Tiles](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/craft-tiles.JPG)
 
 - ### Picture Board Tile
  - This section is made up of a large full width image and a clickable centered button to take the user directly to the Picture Board page. For new users it can be an alternative starting point to the craft navigation above in which the user is seaking more motivation to start using the sites content.
@@ -186,6 +186,8 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
  - The form for voting on the Vote page. Need an understanding of backend technology.
  - The form for signing up to email newsletters on the Stay In Touch page. Need an understanding of backend technology. Once the users details have been received, a periodic email is to be sent back to the users supplied email address. Terms and conditions and GDPR rules would need to be outlined.
  - Ongoing periodic update to the imagery and craft content on the site to keep the site refreshed and inspiring.
+ - Further craft ideas added to the four craft pages to increase the amount of content and provide a wider choice for the users.
+ - Future link to retailer sites on the materials needed section in the craft page. This will help users know where to buy the materials from.
 
 ## Technologies Used
 
@@ -204,32 +206,45 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
   - Favicon.io: used to generate the favicon icon of the site.
 
 ## Testing
+- Once the site was completed I reviewed each feature of the site listed above and checked that:
+ - all the links work i.e. nav links take the user to the correct page, header logo clicks back through to the home page, footer social media icons open up the site in a new tab.
+ - the link hovers work when curser rolls over, either in the nav bar will underline and text change to white, or images border in Picture Board page will expand.
+ - the pages are responsive and look as intended based on the screen size, with mobile, tablet and desktop the main breakpoints.
+ - the forms submit with the correct data and 'required' propoerty used where needed.
+ - I asked three family members to test out the site too by sending them the url link and provide honest feedback where possible.
 - ### Google Inspect
  - I coded the site using mobile first design. Constantly using Google Inspect to check my layout, make amendments, re-check and delivering an end result that fits the brief and user goals. 
 - ### Validator Testing
  - HTML - 
   - One error returned when checking the index.html page, on line 70 I was missing a ; after the &amp code. Corrected. There were two warnings highlighting sections on lines 49 and 98 lacked headings, however not relevant.
-  ![Landing Page Validator Results](#)
+  [Landing Page Validator Results](#)
   - reuse.html page 
-  ![Reuse Page Validator Results](#)
+  [Reuse Page Validator Results](#)
   - No errors returned on the picture_board.html page. One warning  highlighting section on line 62 lacked a heading, however not relevant.
-  ![Picture Board Page Validator Results](#)
+  [Picture Board Page Validator Results](#)
   - No errors returned on the vote.html page.
-  ![Vote Page Validator Results](#)
+  [Vote Page Validator Results](#)
   - No errors returned on the stay_in_touch.html page. One warning  highlighting section on line 62 lacked a heading, however not relevant.
-  ![Stay In Touch Page Validator Results](#)
+  [Stay In Touch Page Validator Results](#)
 - CSS - 
   - ......
-  ![CSS Validator Results](#)
+  [CSS Validator Results](#)
 - Wave - 
   - .....
-  ![Wave Accessibility Results](#)
+  [Wave Accessibility Results](#)
+- ### Performance Testing
+ - Tested the site on Google Developer Tools Lighthouse with the results:
+ ![Lighthouse Results](#)
+- ### User Stories Testing
+ - First time user when on the landing page will see the heading and main hero image to get an understanding of the site. There is an About Us section which provides more information. Below are craft tiles with link buttons and images that relate to the type of craft on that clicked through page. The content is consistant throughout the site with font in an easy to read style. The images and craft content provide ideas and inspiration to the user which should develop into the site being used as a continued craft resource. 
+ - Returning user is able to locate the Picture Board page in order to upload an image of their craft. The functionality of this is not possible at present but has the HTML and CSS in place once the backend data have been created. There are many craft ideas on the site spanning four themes so the user has plenty of resource to get more craft ideas and inspiration. Social media links in the footer provide access to the relevant platform that opens up in a new tab. The Vote page is correctly working and allows the returning user to submit their desired choice of craft for the next monthly update.
+ - Frequent user is able to easily navigate to the craft pages either using the nav bar or link buttons on the landing page. The Picture Board page is designed into sections of the types of craft and has a scroll element allowing the community to continue to upload their finished craft. A frequent user is able to sign up to the periodic craft newsletter on the Stay In Touch page by providing their contact name and email address. The craft content and voting questions will be updated periodically. The code within this section is semantically written up with comments allowing the developer to easily navigate to the right part of the HTML. 
 - ### Further Testing
- - Site tested on Google Chrome, Microsoft Edge, Firefox and Safari across the responsive page break sizes. 
+ - Site tested on Google Chrome, Microsoft Edge, Firefox and Safari across the responsive page break sizes. Both Flexbox and Grid used in CCS to structure the content with each property used based on the type of layout needed e.g. on the landing page the page link containers use Flexbox which adaprt to screen size, whereas on the craft pages, Grid is used and duplicated on each craft idea and craft page.
  - Site tested on mobile, both Samsung Note 10 and iphone 10.
  - All links on the site tested and directed to the correct page.
 - ### Bugs
- - After testing the site using Google Inspect for responsiveness, there did not appear to be any layout issues, however using a mobile, specifically Samsung Note 10, the icons on the Vote and Stay In Touch page would fall across two lines. Margins had to amended to suit.
+ - After testing the site using Google Inspect for responsiveness, there did not appear to be any layout issues, however using a mobile, specifically Samsung Note 10, the icons on the Vote and Stay In Touch page would fall across two lines. Margins and padding had to be amended to suit.
  - I struggled with maintaining a good aspect ratio on my image divs. Upon research I wanted to use aspect-ratio css propoerty however it is not supported on Internet Explorer, Safari, Opera Android, Safari on iOS and Samsung Internet. Instead I used width and height ratios and implements various brak points that would suite each pages content.
 
 ## Deployment
@@ -250,19 +265,22 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
    - Change the current working directory to the location where you want the cloned directory to be.
    - Type git clone, and then paste the URL you copied earlier.
    - Press enter to create your local clone.
+- ### Updates and Push to Hosting
+   - Any updates to the code will need to be saved and pushed to the master branch. This will automatically update the hosted site.
 
 The live link can be found here - https://oliver-rc.github.io/collection-of-crafts/
 
 ## Credits
 - ### Content
- - The content within the craft ideas pages, specifically on the Resuse & Play page has been adapted from https://www.thebestideasforkids.com/. The three craft ideas used have been adapted from:
+ - The content within the craft ideas pages, specifically on the Resuse & Play page has been adapted from https://www.thebestideasforkids.com/. 
+ - The three craft ideas used have been adapted from:
   1. https://www.thebestideasforkids.com/toilet-paper-roll-butterfly/
   2. https://www.thebestideasforkids.com/egg-carton-garden-craft/
   3. https://www.thebestideasforkids.com/frog-craft/
  - Links to the original site of the content has been included within the site, positioned below each craft title.
 - ### Media
- - The Favicon was created from Favicon.io ![here](https://favicon.io/favicon-generator/)
- - Icons included within the content of the size used from Font Awesome ![here](https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free)
+ - The Favicon was created from Favicon.io [here](https://favicon.io/favicon-generator/)
+ - Icons included within the content of the size used from Font Awesome [here](https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free)
  - Images used across the site taken from Unsplash ![here](https://unsplash.com/). Specfic images used are:
   - Hero Landing page Photo by <a href="https://unsplash.com/@franganillo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jorge Franganillo</a>
   - About content Photo by <a href="https://unsplash.com/@alicegrace?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alice Dietrich</a>
