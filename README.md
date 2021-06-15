@@ -8,7 +8,7 @@ The sites look and feel, ease of navigation and content should deliver inspirati
 
 ## Showcase
 
-A deployed link to the website can be found [here](https://oliver-rc.github.io/collection-of-crafts/index.html)
+A deployed link to the website can be found [here](https://oliver-rc.github.io/collection-of-crafts/)
 
 ## User Experience (UX)
 
@@ -217,22 +217,23 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
  ### Validator Testing
   - HTML - 
    - One error returned when checking the index.html page, on line 70 I was missing a ; after the &amp code. Corrected. There were two warnings highlighting sections on lines 49 and 98 lacked headings. Headings not relevant for the section. Upon research I also noted that I should have used the section element to apply a class for the container div, and not use a div as a direct child for this reason.
-   [Landing Page Validator Results](#)
+   [Landing Page Validator Results](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-validator-landing-page.JPG)
   - reuse.html page returned an error whereby I had used duplicate ids for my form: upload file button. This has now been corrected to show no errors or warnings. 
-   [Reuse Page Validator Results](#)
+   [Reuse Page Validator Results](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-validator-reuse-page.JPG)
   - No errors returned on the picture_board.html page. There were two warnings highlighting sections on lines 62 and 73 lacked headings. Headings not relevant for these sections.
-   [Picture Board Page Validator Results](#)
+   [Picture Board Page Validator Results](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-validator-picture-board-page.JPG)
   - No errors returned on the vote.html page.
-   [Vote Page Validator Results](#)
+   [Vote Page Validator Results](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-validator-vote-page.JPG)
   - No errors returned on the stay_in_touch.html page. There was one warning highlighting section on line 62 lacked heading. Headings not relevant for the section. Upon research I also noted that I should have used the section element to apply a class for the container div, and not use a div as a direct child for this reason.
-   [Stay In Touch Page Validator Results](#)
+   [Stay In Touch Page Validator Results](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-validator-stay-in-touch-page.JPG)
  - CSS - 
   - One error returned on line 171 as I used the CSS property 'all: unset' which reset the properties to their initial value. I believe this is a valid property however in order to remove the error, I replaced the code with transform: none and position: relative in order to show the nav bar links on screens over 1024px. Corrected and no errors in the code. Five warnings were displayed, one due to using external style sheet, four warnings for an unknown vendor extension which I have created to help with the background colour maintenance of the site and nav bar open and close functionality.
-  [CSS Validator Results](#)
-  [CSS Validator Warnings](#)
+  [CSS Validator Results](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-css-validator.JPG)
+  [CSS Validator Warnings](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-css-validator-warnings.JPG)
  ### Performance Testing
-  - Tested the site on Google Developer Tools Lighthouse with the results:
- ![Lighthouse Results](#)
+  - Tested the site on Google Developer Tools Lighthouse for desktop and mobile with good results on desktop. However mobile has lower performance due to size of the hero image and about us image. My concern with lowering the resolution to boost page load speed is the risk of the image being blurred. Given how mobile performance continues to improve, I dont believe this is a concern.
+ ![Lighthouse Results Desktop](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/performance-result.JPG)
+ ![Lighthouse Results Mobile](#)
   - Tested on [Wave](https://wave.webaim.org/) which helped me with accessibility, making sure my layout and design worked well with screen readers.
  ### User Stories Testing
   - First time user when on the landing page will see the heading and main hero image to get an understanding of the site. There is an About Us section which provides more information. Below are craft tiles with link buttons and images that relate to the type of craft on that clicked through page. The content is consistant throughout the site with font in an easy to read style. The images and craft content provide ideas and inspiration to the user which should develop into the site being used as a continued craft resource. 
@@ -266,8 +267,6 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
    - Press enter to create your local clone.
  ### Updates and Push to Hosting
    - Any updates to the code will need to be saved and pushed to the master branch. This will automatically update the hosted site.
-
-The live link can be found here - https://oliver-rc.github.io/collection-of-crafts/
 
 ## Credits
  ### Content
