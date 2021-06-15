@@ -196,7 +196,7 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
   - [CSS](https://en.wikipedia.org/wiki/CSS)
 
  ### Frameworks, Libraries & Programs Used
-  - Balsamiq(https://balsamiq.com/): used to create the wireframe during the design process.
+  - Balsamiq: used to create the wireframe during the design process.
   - Gitpod: used for writing the code and using the command line to commit and push to GitHub.
   - Git: used for version control through the gitpod terminal to commit to Git and push to GitHub.
   - GitHub: used to store the projects code after being pushed from Git. Used to host repository.
@@ -215,20 +215,21 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
  ### Google Inspect
   - I coded the site using mobile first design. Constantly using Google Inspect to check my layout, make amendments, re-check and delivering an end result that fits the brief and user goals. 
  ### Validator Testing
-  - HTML - 
+  #### HTML - 
    - One error returned when checking the index.html page, on line 70 I was missing a ; after the &amp code. Corrected. There were two warnings highlighting sections on lines 49 and 98 lacked headings. Headings not relevant for the section. Upon research I also noted that I should have used the section element to apply a class for the container div, and not use a div as a direct child for this reason.
    ![Landing Page Validator Results](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-validator-landing-page.JPG)
-  - reuse.html page returned an error whereby I had used duplicate ids for my form: upload file button. This has now been corrected to show no errors or warnings. 
+   - reuse.html page returned an error whereby I had used duplicate ids for my form: upload file button. This has now been corrected to show no errors or warnings. 
    ![Reuse Page Validator Results](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-validator-reuse-page.JPG)
-  - No errors returned on the picture_board.html page. There were two warnings highlighting sections on lines 62 and 73 lacked headings. Headings not relevant for these sections.
+   - No errors returned on the picture_board.html page. There were two warnings highlighting sections on lines 62 and 73 lacked headings. Headings not relevant for these sections.
    ![Picture Board Page Validator Results](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-validator-picture-board-page.JPG)
-  - No errors returned on the vote.html page.
+   - No errors returned on the vote.html page.
    ![Vote Page Validator Results](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-validator-vote-page.JPG)
-  - No errors returned on the stay_in_touch.html page. There was one warning highlighting section on line 62 lacked heading. Headings not relevant for the section. Upon research I also noted that I should have used the section element to apply a class for the container div, and not use a div as a direct child for this reason.
+   - No errors returned on the stay_in_touch.html page. There was one warning highlighting section on line 62 lacked heading. Headings not relevant for the section. Upon research I also noted that I should have used the section element to apply a class for the container div, and not use a div as a direct child for this reason.
    ![Stay In Touch Page Validator Results](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-validator-stay-in-touch-page.JPG)
- - CSS - 
-  - One error returned on line 171 as I used the CSS property 'all: unset' which reset the properties to their initial value. I believe this is a valid property however in order to remove the error, I replaced the code with transform: none and position: relative in order to show the nav bar links on screens over 1024px. Corrected and no errors in the code. Five warnings were displayed, one due to using external style sheet, four warnings for an unknown vendor extension which I have created to help with the background colour maintenance of the site and nav bar open and close functionality.
+ #### CSS - 
+  - One error returned on line 171 as I used the CSS property 'all: unset' which reset the properties to their initial value. I believe this is a valid property however in order to remove the error, I replaced the code with transform: none and position: relative in order to show the nav bar links on screens over 1024px. Corrected and no errors in the code. 
   ![CSS Validator Results](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-css-validator.JPG)
+  - Five warnings were displayed, one due to using external style sheet, four warnings for an unknown vendor extension which I have created to help with the background colour maintenance of the site and nav bar open and close functionality.
   ![CSS Validator Warnings](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-css-validator-warnings.JPG)
  ### Performance Testing
   - Tested the site on Google Developer Tools Lighthouse for desktop and mobile with good results on desktop. However mobile has lower performance due to size of the hero image and about us image. My concern with lowering the resolution to boost page load speed is the risk of the image being blurred. Given how mobile performance continues to improve, I dont believe this is a concern.
@@ -272,9 +273,9 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
  ### Content
   - The content within the craft ideas pages, specifically on the Resuse & Play page has been adapted from https://www.thebestideasforkids.com/. 
   - The three craft ideas used have been adapted from:
-   1. https://www.thebestideasforkids.com/toilet-paper-roll-butterfly/
-   2. https://www.thebestideasforkids.com/egg-carton-garden-craft/
-   3. https://www.thebestideasforkids.com/frog-craft/
+    1. https://www.thebestideasforkids.com/toilet-paper-roll-butterfly/
+    2. https://www.thebestideasforkids.com/egg-carton-garden-craft/
+    3. https://www.thebestideasforkids.com/frog-craft/
   - Links to the original site of the content has been included within the site, positioned below each craft title.
  ### Media
   - The Favicon was created from Favicon.io [here](https://favicon.io/favicon-generator/)
@@ -290,30 +291,30 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
    - Vote page Photo by [Mark Fletcher-Brown](https://unsplash.com/@markfb?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
    - Stay In Touch page Photo by [Leon Rojas](https://unsplash.com/@ay_leon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   - Images on the Reuse & Play craft page taken from:
-   1. https://www.thebestideasforkids.com/toilet-paper-roll-butterfly/
-   2. https://www.thebestideasforkids.com/egg-carton-garden-craft/
-   3. https://www.thebestideasforkids.com/frog-craft/
+    1. [Craft 1](https://www.thebestideasforkids.com/toilet-paper-roll-butterfly/)
+    2. [Craft 2](https://www.thebestideasforkids.com/egg-carton-garden-craft/)
+    3. [Craft 3](https://www.thebestideasforkids.com/frog-craft/)
   - Images on the Picture Board page taken from:
    - Reuse & Play section:
-    1. https://healthymamainfo.com/2012/02/toilet-paper-roll-butterfly-craft/
-    2. https://onceaduckling.com/2020/04/04/toilet-roll-butterfly-fun-project-for-kids/
-    3. https://www.diyncrafts.com/83537/kids/paper-roll-butterfly
-    4. https://www.artycraftykids.com/craft/toilet-paper-roll-bugs-easy-kids-craft/
+     1. [Image 1](https://healthymamainfo.com/2012/02/toilet-paper-roll-butterfly-craft/)
+     2. [Image 2](https://onceaduckling.com/2020/04/04/toilet-roll-butterfly-fun-project-for-kids/)
+     3. [Image 3](https://www.diyncrafts.com/83537/kids/paper-roll-butterfly)
+     4. [Image 4](https://www.artycraftykids.com/craft/toilet-paper-roll-bugs-easy-kids-craft/)
    - Seasonal Fun section:
-    1. https://www.pinterest.co.uk/pin/843721311430377299/
-    2. http://northtexaskids.com/easy-kids-crafts-paper-plate-easter-bunny-craft/
-    3. https://athomewithzan.com/paper-plate-easter-bunny-craft-for-kids/
-    4. https://www.ourkidthings.com/paper-plate-easter-bunny-craft/
+     1. [Image 1](https://www.pinterest.co.uk/pin/843721311430377299/)
+     2. [Image 2](http://northtexaskids.com/easy-kids-crafts-paper-plate-easter-bunny-craft/)
+     3. [Image 3](https://athomewithzan.com/paper-plate-easter-bunny-craft-for-kids/)
+     4. [Image 4](https://www.ourkidthings.com/paper-plate-easter-bunny-craft/)
    - Learn by Craft section:
-    1. https://montessorifromtheheart.com/2018/04/03/diy-recycled-tactile-number-counters-board-pipe-cleaners-pom-pom-math-sensorial-homeschool-preschool/
-    2. https://www.hellowonderful.co/post/cardboard-math-learning-board/
-    3. https://montessorifromtheheart.com/2018/04/03/diy-recycled-tactile-number-counters-board-pipe-cleaners-pom-pom-math-sensorial-homeschool-preschool/
-    4. https://laughingkidslearn.com/simple-counting-activity-for-children/
+     1. [Image 1](https://montessorifromtheheart.com/2018/04/03/diy-recycled-tactile-number-counters-board-pipe-cleaners-pom-pom-math-sensorial-homeschool-preschool/)
+     2. [Image 2](https://www.hellowonderful.co/post/cardboard-math-learning-board/)
+     3. [Image 3](https://montessorifromtheheart.com/2018/04/03/diy-recycled-tactile-number-counters-board-pipe-cleaners-pom-pom-math-sensorial-homeschool-preschool/)
+     4. [Image 4](https://laughingkidslearn.com/simple-counting-activity-for-children/)
    - Rainy Day Projects section:
-    1. https://www.kokuyocamlin.com/blog/paper-plate-rainbow-craft.html
-    2. https://www.anightowlblog.com/paper-plate-rainbow-kids-craft/
-    3. https://mykidcraft.com/paper-plate-rainbow/paper-plates-rainbows-kids-craft-rainbow-themed-parties-paper-plate-crafts-im3959/
-    4. https://www.inspirationmadesimple.com/st-patricks-day-paper-plate-crafts/
+     1. [Image 1](https://www.kokuyocamlin.com/blog/paper-plate-rainbow-craft.html)
+     2. [Image 2](https://www.anightowlblog.com/paper-plate-rainbow-kids-craft/)
+     3. [Image 3](https://mykidcraft.com/paper-plate-rainbow/paper-plates-rainbows-kids-craft-rainbow-themed-parties-paper-plate-crafts-im3959/)
+     4. [Image 4](https://www.inspirationmadesimple.com/st-patricks-day-paper-plate-crafts/)
  ### Additional Resource
   - [Love Running README file](https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md) helped me to build my own README file for Collection of Crafts (MS1) project.
   - [Code Institue sample README file](https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md) helped me to further build my own README for Collection of Crafts (MS1) project.
