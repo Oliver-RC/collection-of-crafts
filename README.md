@@ -186,7 +186,7 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
  - The form for voting on the Vote page. Need an understanding of backend technology.
  - The form for signing up to email newsletters on the Stay In Touch page. Need an understanding of backend technology. Once the users details have been received, a periodic email is to be sent back to the users supplied email address. Terms and conditions and GDPR rules would need to be outlined.
  - Ongoing periodic update to the imagery and craft content on the site to keep the site refreshed and inspiring.
- - Further craft ideas added to the four craft pages to increase the amount of content and provide a wider choice for the users.
+ - Further craft ideas to be added to the four craft pages to increase the amount of content and provide a wider choice for the users.
  - Future link to retailer sites on the materials needed section in the craft page. This will help users know where to buy the materials from.
 
 ## Technologies Used
@@ -220,6 +220,12 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
    ![Landing Page Validator Results](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-validator-landing-page.JPG)
    - reuse.html page returned an error whereby I had used duplicate ids for my form: upload file button. This has now been corrected to show no errors or warnings. 
    ![Reuse Page Validator Results](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-validator-reuse-page.JPG)
+   - seasonal.html page returned no errors or warnings. 
+   ![Seasonal Page Validator Results](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-validator-reuse-page.JPG)
+   - learn.html page returned no errors or warnings. 
+   ![Learn Page Validator Results](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-validator-reuse-page.JPG)
+   - rainy.html page returned no errors or warnings. 
+   ![Rainy Page Validator Results](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-validator-reuse-page.JPG)
    - No errors returned on the picture_board.html page. There were two warnings highlighting sections on lines 62 and 73 lacked headings. Headings not relevant for these sections.
    ![Picture Board Page Validator Results](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-validator-picture-board-page.JPG)
    - No errors returned on the vote.html page.
