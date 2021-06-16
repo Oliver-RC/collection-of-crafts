@@ -337,6 +337,7 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
   - [Love Running README file](https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md) helped me to build my own README file for Collection of Crafts (MS1) project.
   - [Code Institue sample README file](https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md) helped me to further build my own README for Collection of Crafts (MS1) project.
   - [Code Institue old sample README file](https://github.com/Code-Institute-Solutions/SampleREADME#readme) helped me to further build my own README for Collection of Crafts (MS1) project.
+  - [Kevin Powell](https://www.youtube.com/watch?v=8QKOaTYvYUA) YouTube channel used as a tool for further understanding of the CCS language. In particular, this video showing how to create a responsive nav bar without JS.
   - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) was referenced for the languages used in this project.
   - [Mockup design](http://ami.responsivedesign.is/#) used to create my responsive design file.
   - [W3schools](https://www.w3schools.com/) for various code information and trouble shooting.
