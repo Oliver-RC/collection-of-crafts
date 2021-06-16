@@ -221,11 +221,11 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
    - reuse.html page returned an error whereby I had used duplicate ids for my form: upload file button. This has now been corrected to show no errors or warnings. 
    ![Reuse Page Validator Results](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-validator-reuse-page.JPG)
    - seasonal.html page returned no errors or warnings. 
-   ![Seasonal Page Validator Results](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-validator-reuse-page.JPG)
+   ![Seasonal Page Validator Results](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-validator-seasonal-page.JPG)
    - learn.html page returned no errors or warnings. 
-   ![Learn Page Validator Results](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-validator-reuse-page.JPG)
+   ![Learn Page Validator Results](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-validator-learn-page.JPG)
    - rainy.html page returned no errors or warnings. 
-   ![Rainy Page Validator Results](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-validator-reuse-page.JPG)
+   ![Rainy Page Validator Results](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-validator-rainy-page.JPG)
    - No errors returned on the picture_board.html page. There were two warnings highlighting sections on lines 62 and 73 lacked headings. Headings not relevant for these sections.
    ![Picture Board Page Validator Results](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/w3c-validator-picture-board-page.JPG)
    - No errors returned on the vote.html page.
@@ -277,12 +277,18 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
 
 ## Credits
  ### Content
-  - The content within the craft ideas pages, specifically on the Resuse & Play page has been adapted from https://www.thebestideasforkids.com/. 
-  - The three craft ideas used have been adapted from:
+  - The content within the four craft ideas pages has been adapted from https://www.thebestideasforkids.com/. 
+   - The three reuse craft ideas used have been adapted from:
     1. https://www.thebestideasforkids.com/toilet-paper-roll-butterfly/
     2. https://www.thebestideasforkids.com/egg-carton-garden-craft/
     3. https://www.thebestideasforkids.com/frog-craft/
-  - Links to the original site of the content has been included within the site, positioned below each craft title.
+   - The one seasonal craft idea used has been adapted from:
+    1. https://www.thebestideasforkids.com/paper-plate-easter-bunny-craft/
+   - The one learn craft idea used has been adapted from:
+    1. https://www.thebestideasforkids.com/free-counting-printables/
+   - The one rainy craft idea used has been adapted from:
+    1. https://www.thebestideasforkids.com/paper-plate-rainbow/   
+  - Links to the original site of all craft the content has been included within the site, positioned below each craft title.
  ### Media
   - The Favicon was created from Favicon.io [here](https://favicon.io/favicon-generator/)
   - Icons included within the content of the size used from Font Awesome [here](https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free)
@@ -300,6 +306,12 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
     1. [Craft 1](https://www.thebestideasforkids.com/toilet-paper-roll-butterfly/)
     2. [Craft 2](https://www.thebestideasforkids.com/egg-carton-garden-craft/)
     3. [Craft 3](https://www.thebestideasforkids.com/frog-craft/)
+  - Image on the Seasonal Fun craft page taken from:
+    1. [Craft 1](https://www.thebestideasforkids.com/paper-plate-easter-bunny-craft/)
+  - Image on the Learn By Craft craft page taken from:
+    1. [Craft 1](https://www.thebestideasforkids.com/free-counting-printables/)
+  - Image on the Rainy Day Projects craft page taken from:
+    1. [Craft 1](https://www.thebestideasforkids.com/paper-plate-rainbow/)
   - Images on the Picture Board page taken from:
     - Reuse & Play section:
       1. [Image 1](https://healthymamainfo.com/2012/02/toilet-paper-roll-butterfly-craft/)
