@@ -257,7 +257,7 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
 ## Deployment
  ### Hosting
   - The site was deployed to GitHub Pages using the following steps:
-   - Log in to GitHub and locate my repository.
+   - Log in to GitHub and locate my repository: Oliver-RC / collection-of-crafts.
    - Locate the 'Settings' link in the navigation bar an click into.
    - Find the 'Pages' section within Settings and click into. 
    - Under 'source', click on 'none' and a dropdown will apear, click on 'master' and save.
@@ -265,10 +265,10 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
    - Click on the link to open the site.
  ### Cloning
   - To make a local Clone:
-   - Log into GitHub and locate the gitpod repository.
+   - Log into GitHub or creat an account and navigate to the gitpod repository [here](https://github.com/Oliver-RC/collection-of-crafts).
    - Under the repository name, above the list of files, click on a button called 'Clone'.
    - If cloning with HTTPS, make sure HTTPS is underlined and then click on the clipboard icon to copy. Once clicked the icon will turn to a tick.
-   - Open Gitbash.
+   - Open your local IDE open the terminal.
    - Change the current working directory to the location where you want the cloned directory to be.
    - Type git clone, and then paste the URL you copied earlier.
    - Press enter to create your local clone.
