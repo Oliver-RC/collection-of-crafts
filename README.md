@@ -278,16 +278,16 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
 ## Credits
  ### Content
   - The content within the four craft ideas pages has been adapted from https://www.thebestideasforkids.com/. 
-   - The three reuse craft ideas used have been adapted from:
-    1. https://www.thebestideasforkids.com/toilet-paper-roll-butterfly/
-    2. https://www.thebestideasforkids.com/egg-carton-garden-craft/
-    3. https://www.thebestideasforkids.com/frog-craft/
-   - The one seasonal craft idea used has been adapted from:
-    1. https://www.thebestideasforkids.com/paper-plate-easter-bunny-craft/
-   - The one learn craft idea used has been adapted from:
-    1. https://www.thebestideasforkids.com/free-counting-printables/
-   - The one rainy craft idea used has been adapted from:
-    1. https://www.thebestideasforkids.com/paper-plate-rainbow/   
+    - The three reuse craft ideas used have been adapted from:
+     1. https://www.thebestideasforkids.com/toilet-paper-roll-butterfly/
+     2. https://www.thebestideasforkids.com/egg-carton-garden-craft/
+     3. https://www.thebestideasforkids.com/frog-craft/
+    - The one seasonal craft idea used has been adapted from:
+     1. https://www.thebestideasforkids.com/paper-plate-easter-bunny-craft/
+    - The one learn craft idea used has been adapted from:
+     1. https://www.thebestideasforkids.com/free-counting-printables/
+    - The one rainy craft idea used has been adapted from:
+     1. https://www.thebestideasforkids.com/paper-plate-rainbow/   
   - Links to the original site of all craft the content has been included within the site, positioned below each craft title.
  ### Media
   - The Favicon was created from Favicon.io [here](https://favicon.io/favicon-generator/)
