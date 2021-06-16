@@ -138,7 +138,7 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
 
  ![Footer](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/footer.JPG)
 
- ### Reuse and Play Page (same format applies to the Seasonal Fun, Learn by Craft and Rainy Day Project pages but with different conetent)
+ ### Reuse and Play Page (same format applies to the Seasonal Fun, Learn by Craft and Rainy Day Project pages but with different content)
  - The Reuse and Play craft page will provide the user a number of craft ideas and projects that fall within this category. Below the navigation bar, there will be a full width relevant header image with the page title positioned across and center.
  - Each craft creation idea will be titled and listed below the main heading in a simple to follow format. Starting with a supporting image of the finished craft, skill level, time to make and if adult supervision is needed. Then a 1, 2, 3 process of what you need, with a list below, let's make with a list of instructions below and let's play with another image of the finished craft plus a clickable button allowing the user to upload a picutre of their finished craft to the Picture Board page. 
  - The craft ideas and project content will be updated periodically based on the feedback / votes from the community. 
