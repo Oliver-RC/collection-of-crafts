@@ -208,7 +208,7 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
 ## Testing
  - Once the site was completed I reviewed each feature of the site listed above and checked that:
    - all the links work i.e. nav links take the user to the correct page, header logo clicks back through to the home page, footer social media icons open up the site in a new tab.
-   - the link hovers work when curser rolls over, either in the nav bar will underline and text change to white, or images border in Picture Board page will expand.
+   - the link hovers work when curser rolls over, either in the nav bar will underline and text change to black, or images border in Picture Board page will expand.
    - the pages are responsive and look as intended based on the screen size, with mobile, tablet and desktop the main breakpoints.
    - the forms submit with the correct data and 'required' propoerty used where needed.
    - I asked three family members to test out the site too by sending them the url link and provide honest feedback where possible.
