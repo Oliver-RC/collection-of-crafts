@@ -107,7 +107,7 @@ header label {
 }
 
 header label:hover {
-    color: white;
+    color: black;
     text-decoration: underline;
     cursor: pointer;
 }
@@ -146,9 +146,11 @@ nav a {
 }
 
 nav a:hover {
-    color: white;
+    color: black;
     text-decoration: underline;
+    font-weight: bold;
 }
+
 .nav-toggle:checked ~ nav {
     transform: scale(1, 1);
 }
@@ -310,6 +312,7 @@ nav a:hover {
 
 .craft_container div a:hover {
     text-decoration: underline;
+    font-weight: bold;
     cursor: pointer; 
 }
 
@@ -337,7 +340,7 @@ nav a:hover {
 }
 
 .seasonal_link {
-    color: #fff;
+    color: black;
     background-color: #fac748;
     border: 2px solid black;
     padding: 1em;
@@ -369,7 +372,7 @@ nav a:hover {
 }
 
 .rainy_link {
-    color: #fff;
+    color: black;
     background-color: #a2abb5;
     border: 2px solid black;
     padding: 1em;
@@ -753,6 +756,10 @@ footer {
 
 .newsletter-sign-up {
     line-height: 3em;
+}
+
+fieldset {
+    padding: 5px;
 }
 
 input, textarea {
