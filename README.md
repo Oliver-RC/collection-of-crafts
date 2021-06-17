@@ -36,10 +36,10 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
   - The site will be made up of an initial landing page, 4 themed art and craft project idea pages, a picture board gallery page, a vote form page and a stay in touch sign up form.
   - Every page will be in a consistant layout aiding simple usability. 
     1. Navigation bar at the top.
-    2. header image and title of the page.
+    2. header image and title of the page (excluding home / landing page).
     3. Core content of the page.
     4. Social media footer at the bottom.
-    5. Consistant colour scheme throughout each page.
+    5. Consistant colour scheme throughout each page specifically on the header / nav bar and footer.
  ### Colour Scheme
  - Colour scheme of the site designed using: https://coolors.co/
  - The header, nav bar and footer make up the main colour of the site being lavender gray, this is also supported as a background colour where needed. 
