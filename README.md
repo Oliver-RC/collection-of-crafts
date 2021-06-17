@@ -47,7 +47,7 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
  - Each page of the site is supported with a different accent colour so the user has a visual reference point and not solely relying on reading the text.
  ![Site Colour Scheme](https://github.com/Oliver-RC/collection-of-crafts/blob/master/readme-content/colour-scheme.png)
  ### Typography
- - The [Permanent Market](https://fonts.google.com/specimen/Permanent+Marker?query=perma) font is used for the headings throughout the site with Cursive as the fallback. Permanent Marker brings relevant styling for a craft webite.
+ - The [Permanent Marker](https://fonts.google.com/specimen/Permanent+Marker?query=perma) font is used for the headings throughout the site with Cursive as the fallback. Permanent Marker brings relevant styling for a craft webite.
  - The [Open Sans](https://fonts.google.com/specimen/Open+Sans?query=open+sans) font is used for the content of the site with Sans-Serif as the fallback. Open Sans works well against the headings giving the font clear lines to read.
  ### Imagery
  - Imagery is very important across the site as it will be a source of inspiration to the user. It needs to be eye catching, bold and be relevant to the page content.
@@ -247,8 +247,9 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
   - Returning user is able to locate the Picture Board page in order to upload an image of their craft. The functionality of this is not possible at present but has the HTML and CSS in place once the backend data have been created. There are many craft ideas on the site spanning four themes so the user has plenty of resource to get more craft ideas and inspiration. Social media links in the footer provide access to the relevant platform that opens up in a new tab. The Vote page is correctly working and allows the returning user to submit their desired choice of craft for the next monthly update.
   - Frequent user is able to easily navigate to the craft pages either using the nav bar or link buttons on the landing page. The Picture Board page is designed into sections of the types of craft and has a scroll element allowing the community to continue to upload their finished craft. A frequent user is able to sign up to the periodic craft newsletter on the Stay In Touch page by providing their contact name and email address. The craft content and voting questions will be updated periodically. The code within this section is semantically written up with comments allowing the developer to easily navigate to the right part of the HTML. 
  ### Further Testing
-  - Site tested on Google Chrome, Microsoft Edge, Firefox and Safari across the responsive page break sizes. Both Flexbox and Grid used in CCS to structure the content with each property used based on the type of layout needed e.g. on the landing page the page link containers use Flexbox which adaprt to screen size, whereas on the craft pages, Grid is used and duplicated on each craft idea and craft page.
-  - Site tested on mobile, both Samsung Note 10 and iphone 10.
+  - Site tested on Google Chrome, Microsoft Edge, Firefox and Safari across the responsive page break points. Both Flexbox and Grid used in CCS to structure the content with each property used based on the type of layout needed e.g. on the landing page the page link containers use Flexbox which adaprt to screen size, whereas on the craft pages, Grid is used and duplicated on each craft idea and craft page.
+  - The site tested on the above browsers but also using the browsers on different operating systems, Microsoft and Apple. This was to check for all links, site elements and screen layout working as intended. 
+  - The site was also tested on mobile, both Samsung Note 10 and iphone 10. Again using Google Chrome on both devices, Safari on Apple and Samsung Internet Browser.
   - All links on the site tested and directed to the correct page.
  ### Bugs
   - After testing the site using Google Inspect for responsiveness, there did not appear to be any layout issues, however using a mobile, specifically Samsung Note 10, the icons on the Vote and Stay In Touch page would fall across two lines. Margins and padding had to be amended to suit.
@@ -273,7 +274,7 @@ A deployed link to the website can be found [here](https://oliver-rc.github.io/c
    - Type git clone, and then paste the URL you copied earlier.
    - Press enter to create your local clone.
  ### Updates and Push to Hosting
-   - Any updates to the code will need to be saved and pushed to the master branch. This will automatically update the hosted site.
+   - Any updates to the code will need to be commited and pushed to the master branch. This will automatically update the hosted site.
 
 ## Credits
  ### Content
